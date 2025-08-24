@@ -22,7 +22,7 @@ To assign the occupation code for a "Sewing Machine Operator," a user must know 
 
 ## 3. Solution Overview
 
-This project presents a revolutionary AI/ML application that transforms NCO code assignment through advanced semantic search capabilities. The solution addresses existing limitations by implementing intelligent text understanding and automated occupation matching.
+This project presents an AI/ML application that transforms NCO code assignment through advanced semantic search capabilities. The solution addresses existing limitations by implementing intelligent text understanding and automated occupation matching.
 
 **Core Features Implemented:**
 - **Semantic Understanding**: Advanced NLP models that comprehend job descriptions beyond simple keyword matching
@@ -259,17 +259,9 @@ This project is licensed under the MIT License, allowing for broad usage and mod
 
 ---
 
-## 17. Project Information
 
-**Repository:** [ai-enabled-semantic-search-for-nco](https://github.com/preyaah/ai-enabled-semantic-search-for-nco)  
-**Developer:** [preyaah](https://github.com/preyaah)  
-**Live Demo:** [NCO Semantic Search Application](https://nco-occupation-search.streamlit.app)
 
-For technical questions, feature requests, or bug reports, please create an issue in the GitHub repository. Community engagement and feedback are valuable for continuous improvement of this solution.
 
----
-
-## 18. Acknowledgments
 
 This solution was developed as part of MoSPI's AI/ML initiative to modernize statistical data collection and processing systems across India. The project demonstrates the potential of artificial intelligence and machine learning technologies in enhancing the accuracy, efficiency, and usability of government statistical operations.
 
