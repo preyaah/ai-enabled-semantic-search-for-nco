@@ -1,0 +1,400 @@
+Entry_1: NATIONAL CLASSIFICATION OF OCCUPATIONS-2015 (Occupational Description)
+
+Entry_2: Directorate General of Employment www.ncs.gov.in NATIONAL CLASSIFICATION OF OCCUPATIONS-2015 (Occupational Description)
+
+Entry_3: Directorate General of Employment www.ncs.gov.in FOREWORD National Classification of Occupation (NCO) plays a very vital role in maintaining standards of occupation in the country and is regularly used in the network of employment exchanges that constitute the Public Employment Service for Classification of Occupations, job postings and job search. This classification is used in all types of censuses and sample surveys conducted in India especially in data collection, processing, analysis and presentation of survey results besides its wide range of applications in policy formulation and policy analysis. The Directorate General of Employment, Ministry of Labour & Employment,
+
+Entry_4: Government of India is responsible for maintaining and updating the National Classification of Occupation in India aligned with the corresponding International Standard Classification of Occupations (ISCO) of ILO. The first classification was NC0-1946 followed by NC0-1958, NC0- 1968, NC0-2004 and now the current series NC0-2015. The National Classification of Occupations-2015 (NC0-2015) is aligned with International Standard Classification of Occupations-2008 (ISC0-2008). 2. NCO is a classification of occupations which describes and assigns codes to the various occupations in the country and aligns it with the ISCO. These codes are reviewed and updated periodically to reflect developments in the labour market, particularly with the emergence of new occupations, as well as to align with changes in the international standard. These codes also help in promoting international comparability of statistical data relating to occupations. These occupational standards follow a scientific and hierarchical approach having major, minor and unit groups of classification which has evolved over the years to capture the structural changes in the employment market and current work practices and work environment. 3. The NC0-2015 is a compendium for occupational information available in the Indian economy. The document gives an insight into the occupational framework, nature of duties involved and the level of skill requirement to perform the activities in a real time work situation. The users of NCO may make use of the information for vocational guidance, career counselling and various surveys and studies undertaken by user agencies. The NC0-2015 has also been mapped with the National Industrial Classification (NIC) and Qualification Packs National Occupational Standards (QP-NOS) to cater to the structural changes in the labour market. Furthermore, NC0-2015 framework is dynamic enough to capture and reflect the newly emerging occupations in the industry. 4. The current volume of NCO details out the job description of 3600 civilian occupations covering 52 sectors, as compared to the earlier series of NCO i.e. NC0-2004, which contained the job descriptions for 2945 occupations. The NC0-2015 has 8 digit coding structure which was mapped and aligned to ISC0-2008 with the addition of 2 digits. There is one to one correspondence between ISC0-2008 and the NC0-2015 with the first digit representing the
+
+Entry_5: Division (Major GroupL second digit representing Sub-Division (Sub-Major GroupL third digit representing the Group (Minor Group) and the fourth digit representing the Family (Unit
+
+Entry_6: GroupL a decimal is introduced after the first four digits in order to create a distinction between the Families and individual Occupations. The NC0-2015 is in two Volumes viz. Vol I & II (A& B) where Vol I gives the abstract of Occupations along with their concordance to the earlier NC0-2004. Vol II gives the detailed descriptions ofthe occupations. I i 5. The Ministry is implementing the National Career Service (NCS) Project as a Mission Mode Project for modernising and transforming the network of employment exchanges and
+
+Entry_7: Model Career Centres are being set up in collaboration with States. The NCS Portal is operational at www.ncs.gov.in and aims to link job seekers with employment opportunities along with rich career content. The NCO Codes are integrally enmeshed in the NCS initiative and facilitates efficient job matching. The NCO Codes may be used by varied stakeholders in making information in the employment market more transparent and objective. Soft copies of the publication is available on the NCS portal. 6. The NC0-2015 series has been evolved along with career content to contribute to the knowledge repository of career options. More details on the classification, as well as the principles, scope and structure of the classification are available on the National Career
+
+Entry_8: Service (www.ncs.gov.in) platform. This knowledge repository provides career related information for use by career counsellors and job aspirants across the country and aims at supporting policy makers, students, job seekers, persons returning to the labour force, investors and employers in making better labour market decisions. 7. I am confident that the publication will prove useful in classifying occupations for official work, survey and research work, international comparisons on the demand and supply of workforce and many more such areas. I place on record my appreciation for all the stakeholders who have contributed their valuable inputs in the publication. I also take this opportunity to extend my thanks to the members of the Expert Group on the career content who have examined and vetted the contents of this publication/documents. I also extend my thanks to the officers of the Directorate lead by Mr. Pravin Srivastava, Deputy Director
+
+Entry_9: General (Employment) for timely coordination with all the stakeholders involved in this initiative. --~~Lj- (P.P. Mitra)
+
+Entry_10: Principal Labour & Employment Advisor and Director General Employment II ii J3.J1=J ~ x~ \J1 ~ II "l +-t ?II C'1 q wFcffi J3.{1=J ~ ~ 3i!lc0<'1, ~o~o~o ~ ~-110001 ~urm\ '+fRtl 'fl i( ¢I i( ~ "ff#rq Tele : 91-11-23 71 02 65 MINISTRY OF LABOUR & EMPLOYMENT
+
+Entry_11: Fax : 91-11-23 35 56 79 SHANKAR AGGARWAL, I.A.S. SHRAM SHAKTI BHAVAN E-mail :secy-labour@nic.in
+
+Entry_12: Secretary to Govt. of India NEW DELHI-110001 D.O. No. D,GE-11/01/2016-VG/01
+
+Entry_13: Dated: 1 7 J 5 f :L_o I f, Subject: Release of the National Classification of Occupation (NCO), 2015 series.
+
+Entry_14: The Directorate General of Employment (DGE) is responsible for revising and maintaining the National Classification of Occupations (NCO) on the lines of International Standard Classification of Occupations (ISCO) of the ILO. The codes are used for classification of occupations by the employment exchanges and census/survey organisations of the
+
+Entry_15: Central and State government. These codes are revised from time to time to capture the changes in occupational patterns and structural changes in the economy. The codes also help in promoting International comparability of statistical data relating to occupations. The first set of occupation standards (ISCO) was brought out by the International Labour
+
+Entry_16: Organisation (ILO) in 1958 and revised from time to time, the latest being the 2008 series. The corresponding series in the Indian National Classification of Occupation (NCO) were 1958, 1967 and 2004. These occupational standards follow a scientific and hierarchical approach having major, minor and unit groups of classification which has evolved over the years to capture the structural changes in the employment market. The NCO codes are extensively used by the employment exchanges and other data/survey collection agencies like the Ministry of Statistics & PI (NSSO, CSO), Census Commissioner & RGI, NITI Aayog, IAMR, State Governments, Academic Institutions etc. 2. The current national series (NC0-2004) was based on the ISC0-1988 series and required updation to capture information on the new occupations that have emerged, especially on account of liberalisation and globalisation. In the meanwhile, the Ministry began implementing the National Career Service as a Mission Mode Project for modernising and transforming the network of employment exchanges and 100 Model Career Centres are being set up in collaboration with States. The NCS Portal is operational at www.ncs.gov.in and aims to link job seekers with employment opportunities along with rich career content. III iii The NCO Codes are integrally enmeshed in the NCS initiative and facilitates efficient job matching. The NCO - 2015 code is in 2 volumes, the first giving the abstract occupations along with their concordance to the earlier NC0-2004 series and the second volume giving the detailed occupational description. A hard copy of the first volume is enclosed for ready reference. It is requested that the NCO Codes may be used by all stakeholders in making information in the employment market more transparent and objective. Soft copies of these publications are available on the attached CD and also on the NCS portal. 3. I request that information about the publication be circulated to the various
+
+Entry_17: Departments and other users and its usage may be ensured by sending various statistical returns using these revised codes. We look forward to suggestions for improvement in the NCO codes and these may kindly be sent at feedback.dget@nic.in.
+
+Entry_18: All Secretary, GOI Ministries and Departments (As per list attached) IV iv ~ ~) \J14 11 '( n;i=?lrr.lC "':TTT<Q ~~~ -;:ffl ~-11 0001 ~ 3BtCll<1, 3l"nfo~o~o
+
+Entry_19: Tele : 91-11-23 71 02 65 ~ '<"l'<ctll'< cf; ~ MINISTRY OF LABOUR & EMPLOYMENT Fax : 91-11-23 35 56 79 SHANKAR AGGARWAL, I.A.S. SHRAM SHAKTI BHAVAN E-mail :secy-labour@nic.in
+
+Entry_20: Secretary to Govt. of India NEW DELHI-110001 D.O. No. DGE-11/01/2016-VG/01
+
+Entry_21: Dated: t l / .>/ ;;ur.r-£ Subject: Release of the National Classification of Occupation (NCO), 2015 series.
+
+Entry_22: All Secretary, GOI Ministries and Departments {As per list attached) VI vi
+
+Entry_23: Table of Contents VOL- II B 1. Division 6 1 - 40 2. Division 7 41 - 309 3. Division 8 310 - 530 4. Division 9 531 - 567 INDEX National Classification of Occupations – 2015 Divison 6 Occupations in this Division are classified into the following Sub Divisions:
+
+Entry_24: Division 61 Market Oriented Skilled 6 Agricultural Workers 62 Market Oriented Skilled Forestry, Fishery and Hunting Workers
+
+Entry_25: Skilled Agricultural, Forestry and 63 Subsistence Farmers, Fishers, Fishery Workers Hunters and Gatherers
+
+Entry_26: Skilled agricultural, forestry and fishery Sub Division 61 workers grow and harvest field or tree
+
+Entry_27: Market Oriented Skilled and shrub crops, gather wild fruits and Agricultural Workers plants, breed, tend or hunt animals, produce a variety of animal husbandry
+
+Entry_28: Market-oriented skilled agricultural products, cultivate, conserve and exploit workers plan, organize and perform forests, breed or catch fish and cultivate farming operations to grow and harvest or gather other forms of aquatic life in field or tree and shrub crops and produce order to provide food, shelter and income a variety of animals and animal products for themselves and their households. for sale or delivery on a regular basis to Tasks performed by skilled agricultural, wholesale buyers, and marketing forestry and fishery workers usually organizations or at markets include: preparing the soil; sowing, Tasks performed by workers in this sub- planting, spraying, fertilising and major group usually include: preparing the harvesting field crops; growing fruit and soil; sowing, planting, spraying, fertilising other tree and shrub crops; growing and harvesting field crops, growing fruit garden vegetables and horticultural and other tree and shrub crops; growing products; gathering wild fruits and plants; garden vegetables and horticultural breeding, raising, tending or hunting products; raising, breeding and tending animals mainly to obtain meat, milk, hair, animals mainly to obtain meat, milk, hair, fur, skin, sericulture, apiarian or other fur, skin, sericulture, apiarian or other products; cultivating, conserving and products; storing and carrying out some exploiting forests; breeding or catching processing of t produce; selling their fish; cultivating or gathering other forms products to purchasers, marketing of aquatic life; storing and carrying out organizations or at markets. Supervision some basic processing of their produce; of other workers may be included. selling their products to purchasers, marketing organizations or at markets. Supervision of other workers may be Occupations in this Sub Division are included. classified into the following Groups: 611 Market Gardeners and Crop
+
+Entry_29: Growers 612 Animal Producers 613 Mixed Crop and Animal Workers VOLUME II B 1 National Classification of Occupations – 2015 Divison 6
+
+Entry_30: Growers Cultivators, General; Farmer, General; grows crops, vegetables, fruits, etc. depending upon soil, irrigation facilities,
+
+Entry_31: Market gardeners and crop growers plan, market, etc., and sells produce. organize and perform operations to grow
+
+Entry_32: Determines crops to be grown depending and harvest field crops, to grow fruit and on nature of soil, climate, irrigation and other tree and shrub crops, to grow marketing facilities. Selects and purchases garden vegetables and medicinal and good seed, fertiliser, implements and other plants, and to produce horticultural other items of farm equipment including and horticultural nurseries products, for machinery. Clears field of stones, grass, sale or delivery on a regular basis to shrubs, trees etc., using hand tools. wholesale buyers, marketing
+
+Entry_33: Prepares plots by raising ‘bund’ organizations or at markets. (earthwork) around them for retention of water. Tills land using plough or tractor Occupations in this Group are classified and breads loads. Sows seeds and levels into the following Families: earth. Makes channels connecting land to source of water for irrigation. Conducts 6111 Field Crop and Vegetable Growers weeding and hoeing to conserve moisture. 6112 Tree and Shrub Crop Growers
+
+Entry_34: Prepares manure by collecting and storing 6113 Gardeners, Horticultural and farmyard refuse into ditch and covering it
+
+Entry_35: Nursery Growers with earth. Sprays insecticides, evolves 6114 Mixed Crop Growers measures to protect crops from destruction by plant diseases and wild 6115 Medicinal and Aromatic Plant animals and nurses growing crops by
+
+Entry_36: Cultivators picking wild growth. Harvests matured 6116 Agriculture Information crops using sickle etc. Collects harvested
+
+Entry_37: Management crop into bundles and carries it to the threshing ground when completely dried
+
+Entry_38: Field Crop and Vegetable Growers treading bullocks or machine. Separates grain from straw by winnowing. Bags corn, bundles straw and stores corn in godown.
+
+Entry_39: Sells produce in market. Hires labourers organize and perform farming operations when necessary and supervises their to grow and harvest various types of field work. Maintains equipment, building, crop such as wheat and other cereals, rice, fences etc. in good order. May operate beetroot, sugar-cane, ground-nuts, tractor, winnowing, threshing and other tobacco, reed or other field crops and machines. May breed animals. May do potatoes, cabbages or other field share cropping or take land on lease for vegetables, for sale or delivery on a cultivation. regular basis to wholesale buyers, marketing organizations or at markets. ISCO 08 Unit Group Details:
+
+Entry_40: Title Field Crop and Vegetable Growers VOLUME II B 2 National Classification of Occupations – 2015 Divison 6 6111.0101 bushes to prevent destruction of crops by
+
+Entry_41: Paddy Farmer animals and trespassing. Sprays insecticides and evolves measures to protect crop from plant diseases, insects
+
+Entry_42: Paddy Farmer cultivates paddy as per the and pests. Nurses growing crops by package of practices recommended for a careful watch and harvests matured crops particular agronomic climate zone, type of using sickle or other harvesting soil, rainfall pattern and climatic implements or machines. Collects and conditions to achieve the yields as per the preserves seeds. Collects harvested crop genetic potential of a given variety and into bundles and removes to threshing sell the produce in the market. floors. Dries harvested crop in sun.
+
+Entry_43: Qualification Pack Details: grain from chaff. Bags and transports yield QP NOS Reference AGR/Q0101 by carts for storage and sale in market. QP NOS Name Paddy Farmer
+
+Entry_44: Hires labourers if required and supervises NSQF Level 4 their work. Prepares manure by collecting and storing cow dung into ditch. Keeps ISCO 08 Unit Group Details: equipment, building, fences etc. in good
+
+Entry_45: Title Field Crop and Vegetable Growers threshing and other machines, May breed animals. 6111.0200
+
+Entry_46: Cultivator, Crop; Farmer, Crop grows field Title Field Crop and Vegetable Growers crops of wheat, paddy, cotton, sugar cane etc., according to type of land and 6111.0201 irrigation facilities available. Determines
+
+Entry_47: Wheat Cultivator type of crop to be grown according to nature of soil, climatic conditions,
+
+Entry_48: Wheat Cultivator cultivates wheat as per irrigation and marketing facilities in that the package of practices recommended area. Selects and purchases seeds, for a particular agro climate zone, type of fertilises and other items of farm soil, rainfall pattern and climatic condition equipment including machinery. Clears to achieve the yield as per the genetic land of grass, stones etc. using spades and potential of given variety and sell the other tools. Divides farm into easy produce as per the competitive market portions (fields) and raises boundary prices without distress sale. round them for retention of water.
+
+Entry_49: Qualification Pack Details: tractor or other implements to soften QP NOS Reference AGR/Q0102 earth and increase fertility. Connects land QP NOS Name Wheat Cultivator with source of water by digging channels NSQF Level 4 for irrigation as required. Sows by broadcasting seeds in field and levelling ISCO 08 Unit Group Details: up with wooden plough. Conducts weeding and hoeing to conserve moisture. Code 6111
+
+Entry_50: Fences farm using barbed wire or thorny Title Field Crop and Vegetable Growers VOLUME II B 3 National Classification of Occupations – 2015 Divison 6 6111.0301 6111.0501
+
+Entry_51: Maize Cultivator undertakes the Soya bean Cultivator undertakes the cultivation of maize crop at the farm level. cultivation of oilseeds at the farm level.
+
+Entry_52: The individual is also responsible for The individual is also responsible for harvesting the maize crop. The maize harvesting the soya bean. The Soya bean cultivator needs to adapt recommended Cultivator needs to adapt recommended practices for a particular agro climate practices for a particular agronomic zone, type of soil, rainfall pattern and climate zone, type of soil, rainfall pattern climatic conditions to achieve the best and climatic conditions to achieve the possible yield best possible yield
+
+Entry_53: Qualification Pack Details: Qualification Pack Details: QP NOS Reference AGR/Q0103 QP NOS Reference AGR/Q0201 QP NOS Name Maize Cultivator QP NOS Name Soya bean NSQF Level 4 Cultivator NSQF Level 4 ISCO 08 Unit Group Details:
+
+Entry_54: Pulses Cultivator undertakes the cultivation of pulses at the farm level. The Cotton Cultivator undertakes the individual is also responsible for cultivation of cotton crop at the farm harvesting the pulses. The pulses level. The individual is also responsible for cultivator needs to adapt recommended harvesting the cotton crop. The Cotton practices for a particular agro climate Cultivator needs to adapt recommended zone, type of soil, rainfall pattern and practices for a particular agro climate climatic conditions to achieve the best zone, type of soil, rainfall pattern and possible yield climatic conditions to achieve the best possible yield.
+
+Entry_55: Qualification Pack Details: Qualification Pack Details: QP NOS Reference AGR/Q0104 QP NOS Reference AGR/Q0202 QP NOS Name Pulses Cultivator QP NOS Name Cotton Cultivator NSQF Level 4 NSQF Level 4 ISCO 08 Unit Group Details: ISCO 08 Unit Group Details:
+
+Entry_56: Title Field Crop and Vegetable Growers Title Field Crop and Vegetable Growers VOLUME II B 4 National Classification of Occupations – 2015 Divison 6 6111.0701 and evolves measures to protect fruits
+
+Entry_57: Sugarcane Cultivator from wild animals, etc. Checks maturity of fruits and plucks ripe fruits by hand at appropriate time. Develops different
+
+Entry_58: Sugarcane Cultivator undertakes the varieties of trees by grafting, budding, etc. cultivation of sugarcane crop at the farm
+
+Entry_59: Transports plants and fruits by carts or level. The individual is also responsible for automobile and sells them. Hires harvesting the sugarcane crop. The labourers when needed and supervises
+
+Entry_60: Sugarcane Cultivator needs to adapt their work. Keeps fences, building and recommended practices for a particular agricultural tools and implements in good agro climatic zone, type of soil, rainfall condition. May prepare seedbeds and pattern and climatic conditions to achieve raise seedlings for own use and for sale. the best possible yield.
+
+Entry_61: May specialize in cultivating any particular type of fruit. May arrange preservation of
+
+Entry_62: Qualification Pack Details: fruits in cold storage. May specialize in QP NOS Reference AGR/Q0203 grafting or budding. QP NOS Name Sugarcane
+
+Entry_63: Cultivator ISCO 08 Unit Group Details: NSQF Level 4
+
+Entry_64: Title Tree and Shrub Crop Growers ISCO 08 Unit Group Details:
+
+Entry_65: Cultivator, Fruit the package of practices recommended for a particular agronomic climate zone,
+
+Entry_66: Cultivator, Fruit: Farmer, Fruit grows type of soil, rainfall pattern and climatic varieties of nuts and fruits depending on conditions to achieve the coconut yields type of soil, climate, irrigational and as per the genetic potential of a given transport facilities. Determines type of variety and sell the products as per the nuts or fruits to be grown based on nature competitive market prices without of soil, climatic conditions and irrigational distress sale. facilities. Selects and purchases seeds, seedlings, cutting, etc. fertilizer and
+
+Entry_67: Qualification Pack Details: agricultural equipment required for QP NOS Reference AGR/Q0503 cultivation. Prepares land for planting by QP NOS Name Coconut Grower ploughing, manuring, levelling, etc. Plants NSQF Level 4 seedlings and cuttings or sow seeds and irrigates fields. Arranges regular supply of ISCO 08 Unit Group Details: water by digging channels to source of water. Prepares manure for use in Code 6112 cultivation by storing farm yard refuse to Title Tree and Shrub Crop Growers get converted into usable manure. Weeds and hoes grass and prunes branches of 6111.0852 fruit plants by hand tools to facilitate Friends of Coconut Tree better growth and yield. Sprays insecticide VOLUME II B 5 National Classification of Occupations – 2015 Divison 6
+
+Entry_68: Friends of Coconut Tree has to climb 6111.1001 coconut palms with the help of a climbing Mango Grower machine. He has to identify tender/mature nuts, harvest it and handle
+
+Entry_69: Mango Grower cultivates mangoes as per them with care and also clean the crown the recommended practices for a given of the coconut palms. He should be able agro economic zone and achieve the to identify the types of pests and diseases expected yield. He is also responsible for of coconut and apprise and help farmers hygienic harvest and post-harvest of the to adopt Integrated pests and disease mango crop and ensuring sale of the management practices. He will look into same. various aspects of coconut crop
+
+Entry_70: Qualification Pack Details: management and should be able to QP NOS Reference AGR/Q0402 apprise farmers regarding needed QP NOS Name Mango Grower improvement. NSQF Level 4
+
+Entry_71: Qualification Pack Details: ISCO 08 Unit Group Details: QP NOS Reference AGR/Q0504
+
+Entry_72: Title Tree and Shrub Crop Growers as per the package of practices recommended for a particular agronomic 6111.0901 climate zone, type of soil, rainfall pattern
+
+Entry_73: Banana Farmer and climatic condition to achieve the yield as per the genetic potential of given
+
+Entry_74: Banana Farmer cultivates banana as per variety and sell the produce as per the the package of practices recommended competitive market prices without for a particular agronomic climate zone, distress sale. type of soil, rainfall pattern and climatic condition to achieve the yield as per the
+
+Entry_75: Qualification Pack Details: genetic potential of given variety and sell QP NOS Reference AGR/Q0403 the produce as per the competitive QP NOS Name Citrus Fruit Grower market prices without distress sale. NSQF Level 4
+
+Entry_76: Qualification Pack Details: ISCO 08 Unit Group Details: QP NOS Reference AGR/Q0201
+
+Entry_77: Title Tree and Shrub Crop Growers NSQF Level 4 6111.1200 ISCO 08 Unit Group Details:
+
+Entry_78: Title Tree and Shrub Crop Growers VOLUME II B 6 National Classification of Occupations – 2015 Divison 6
+
+Entry_79: Viniculturist; Grape Cultivator cultivates conserve moisture. Harvests matured grapes for commercial use. Determines vegetables by cutting with knife or pulling varieties of grapes to be grown, according or digging out from ground using hand to soil, weather and market conditions. tools. Transports vegetables to market
+
+Entry_80: Selects and purchases vine stock, fertilizer place for sale. Hires labourers on and farm machinery. Hires workers to cultivation if required and supervises their prepare soil, layout new plantings and work. Keeps buildings, fences and other train young stock. Operates farm agricultural equipment in good repairs. machinery and directs workers to apply Collects farmyard refuse to convert it into fertilizer and pesticides to crop. Decides manure. May operate tractor for when and how to bud, graft, prune, preparing fields. May arrange to keep cultivate, and harvest crop. Arranges with vegetables in cold storage. May specialize buyers for sale of crop. in growing any particular kind of vegetable like peas, potatoes, etc. ISCO 08 Unit Group Details:
+
+Entry_81: Vegetables grows variety of vegetables Bulb Crop Cultivates bulb crops as per the according to soil, season and demand. package of practices recommended for a
+
+Entry_82: Determines vegetables to be grown taking particular agronomic climate zone, type of into consideration nature of soil, irrigation soil, rainfall pattern and climatic condition facilities, climatic conditions, consumption to achieve the yield as per the genetic and market values. Selects and purchases potential of given variety and sell the seed, fertilisers and other items of farm produce as per the competitive market equipment including machines. Ploughs prices without distress sale. land adopting indigenous methods or breaks land by tractor. Divides land into Qualification Pack Details: small plots by raising small bunds QP NOS Reference AGR/Q0501 (earthwork) around for retention of water QP NOS Name Bulb Crop Cultivator and manure. Clears land by removing NSQF Level 4 grass, stones, etc. by hand. Mixes manure with soil, sows seeds by spreading over ISCO 08 Unit Group Details: ground and levelling or plant cutting and
+
+Entry_83: Code 6111 irrigates field as required, by digging out
+
+Entry_84: Title Field Crop and Vegetable Growers drains and connecting them to source of water. Fences farm if required with 6111.1501 barbed wire or thorny bushes for
+
+Entry_85: Solanaceous Crop Cultivator protection. Spray insecticides and takes other protective measures against plant
+
+Entry_86: Solanaceous Crop Cultivator Cultivates diseases and destruction by wild animals, solanaceous crop as per the package of pests etc. Hoes and weeds fields to practices recommended for a particular VOLUME II B 7 National Classification of Occupations – 2015 Divison 6 agronomic climate zone, type of soil, type of soil, rainfall pattern and climatic rainfall pattern and climatic condition to condition to achieve the yield as per the achieve the yield as per the genetic genetic potential of given variety and sell potential of given variety and sell the the produce as per the competitive produce as per the competitive market market prices without distress sale. prices without distress sale.
+
+Entry_87: Qualification Pack Details: QP NOS Reference AGR/Q0901 QP NOS Reference AGR/Q0502 QP NOS Name Chillies Cultivator QP NOS Name Solanaceous Crop NSQF Level 4
+
+Entry_88: Cultivator NSQF Level 4 ISCO 08 Unit Group Details:
+
+Entry_89: Code 6111 ISCO 08 Unit Group Details: Title Field Crop and Vegetable Growers
+
+Entry_90: Tuber Crop Cultivator Coriander Cultivator cultivates coriander as per the package of practices
+
+Entry_91: Tuber Crop Cultivator cultivates tuber recommended for a particular agronomic crop as per the package of practices climate zone, type of soil, rainfall pattern recommended for a particular agronomic and climatic condition to achieve the yield climate zone, type of soil, rainfall pattern as per the genetic potential of given and climatic condition to achieve the yield variety and sell the produce as per the as per the genetic potential of given competitive market prices without variety and sell the produce as per the distress sale. competitive market prices without distress sale.
+
+Entry_92: Qualification Pack Details: QP NOS Reference AGR/Q0902 QP NOS Reference AGR/Q0503 QP NOS Name Coriander Cultivator QP NOS Name Tuber Crop NSQF Level 4
+
+Entry_93: Chillies Cultivator Field Man, Agriculture; Mate Agriculture distributes and controls labour of
+
+Entry_94: Chillies Cultivator cultivates chillies as per Agricultural or Horticulture farm and the package of practices recommended supervises ploughing, sowing, harvesting, for a particular agronomic climate zone, etc. under directions of superiors. Checks VOLUME II B 8 National Classification of Occupations – 2015 Divison 6 attendance of labour. Allots work to each bushes, grape vines, berry-bearing worker. Collects seeds, fertilisers and bushes, cocoa trees and rubber trees and equipment from stores and distributes to collect sap, for sale or delivery on a them to workers. Controls workers regular basis to wholesale buyers, engaged in ploughing, manuring, sowing, marketing organizations or at markets. irrigating, gap filling, harvesting, weeding, threshing, winnowing etc. Collects from 6112.0100 workers at close of day all implements Pruner, Tea Gardens distributed to them in morning and deposits them in stores. Reports progress
+
+Entry_95: Pruner, Tea Gardens prunes branches of of work to superior and arranges payment tea plants to produce better yield. of wages by superior. Attends to any
+
+Entry_96: Observes plant and decides extent of other job assigned by superior. pruning needed. Cuts branches using pruning knife at desired point and ISCO 08 Unit Group Details: disposes them off by spreading at bottom
+
+Entry_97: Title Field Crop and Vegetable Growers for planting tea plants. May spray insecticides. May perform low skilled 6111.9900 manufacturing tasks in factory during
+
+Entry_98: Field Crop and Vegetable Growers, heavy harvest months.
+
+Entry_99: Field Crop and Vegetable Growers, other Code 6112 include those who plan and carry out the Title Tree and Shrub Crop Growers necessary operations to grow and harvest various types of field crops such as wheat 6112.0200 and other cereals, rice, beetroot, sugar- Tapper, Palm Juice cane, ground-nuts, tobacco, reeds or other field crops and potatoes, cabbages Tapper, Palm Juice makes cuts in trunks of or other field vegetables, for sale or palm-trees and gathers oozed out sap delivery on a regular basis to wholesale (palm juice). Climbs palm-tree with pot buyers, marketing organizations or at and knife tied with his waist through belt. markets not elsewhere classified. Cleans space at top of tree-trunk preparatory to tapping. Cuts narrow ‘V’ ISCO 08 Unit Group Details: shaped opening in tree-trunk at specified
+
+Entry_100: Title Field Crop and Vegetable Growers Fastens pot on tree trunk with rope and ensures that palm-juice drops into pot.
+
+Entry_101: Family 6112 Adjusts pot, if necessary, to avoid waste.
+
+Entry_102: Empties full pot into bucket next day and re-fixes empty pot at adjacent place on
+
+Entry_103: Tree and Shrub Crop Growers tree trunk for further collection. Repeats process for collection of juice from other
+
+Entry_104: Tree and shrub crop growers plan trees. organize and perform farming operations to grow and harvest trees and shrubs, ISCO 08 Unit Group Details: such as fruit and nut trees, tea and coffee VOLUME II B 9 National Classification of Occupations – 2015 Divison 6
+
+Entry_105: Code 6112 latex. Fastens spout and cup below lowest
+
+Entry_106: Title Tree and Shrub Crop Growers end of cut to collect oozed out latex. Adds preservatives or anticoagulants into cup 6112.0201 where specified. Repeats process on other
+
+Entry_107: Neera Technician trees under his charge and empties cups when full or when oozing stops, into
+
+Entry_108: Neera Technician has to manually climb bucket. Scraps coagulated latex from scars coconut palms. He has to identify the on trees before making fresh cutting. inflorescence and prepare it for tapping
+
+Entry_109: Ensures that cups and spouts are clean by beating it with right force and rhythm. and tapping cuts are of uniform length
+
+Entry_110: He performs this twice in a day for two and depth, without causing injury to tree- weeks. He has to cut the tip of the trunk. Repeats process on tapped trees inflorescence, wrap it up, apply clay and next morning. May sharpen tapping knife place a can for Neera to flow into it. He and carry latex to reception station for has to perform this activity twice a day. weighment and further processing.
+
+Entry_111: He has to store this Neera under suitable temperature and hygienic environment, in ISCO 08 Unit Group Details: order to prevent any microbial contamination. He should be able to Code 6112 handle freshly harvested Neera, have Title Tree and Shrub Crop Growers knowledge about transportation for Neera to processing centres and primary 6112.0400 processing of Neers and Neera based Budder products. They also clean the crown of the coconut palms. He should be able to Budder buds field-grown rose plants with identify the types of pests and disease hybrid buds during rose-growing season: management practices. He will look into Crouches over rows of rose plants to various aspects of coconut crop reach plant rootstock. Cuts T-shaped management and should be able to incision on rootstock and opens incision, apprise farmers regarding needed using budding knife. Slices hybrid bud improvement. from scion wood and inserts bud into incision. Observes tying of buds to ensure
+
+Entry_112: Qualification Pack Details: quality of tie. Repeats procedure, rapidly, QP NOS Reference AGR/Q0505 throughout work period to maintain QP NOS Name Neera Technician production. NSQF Level 4 ISCO 08 Unit Group Details: ISCO 08 Unit Group Details: Code 6112
+
+Entry_113: Title Tree and Shrub Crop Growers 6112.0501 6112.0300 Tea Plantation Worker
+
+Entry_114: Tapper, Rubber Tea Plantation Worker is responsible for
+
+Entry_115: Tapper, Rubber cuts channel grooves on carrying out the ground level activities in a trunk of rubber trees at prescribed angle tea plantation right from nursery on specified area and gathers excluded preparation to harvesting and storage. VOLUME II B 10 National Classification of Occupations – 2015 Divison 6
+
+Entry_116: Qualification Pack Details: Code 6112 QP NOS Reference AGR/Q0204 Title Tree and Shrub Crop Grower QP NOS Name Tea Plantation Worker 6112.0801 NSQF Level 2 Rubber Nursery Worker-Budder ISCO 08 Unit Group Details: Rubber Nursery Worker-Budder carries
+
+Entry_117: Code 6112 out all the labour oriented nursery Title Tree and Shrub Crop Grower activities specialized in bud grafting work.
+
+Entry_118: He is responsible for the timely 6112.0601 completion of bud grafting and all Coffee Plantation Worker seasonal activities assigned to him facilitating smooth running of the nursery and production of quality planting Coffee Plantation Worker is responsible materials as envisaged by the organization for carrying out the ground level activities in a coffee plantation right from nursery
+
+Entry_119: Qualification Pack Details: preparation to harvesting and storage. QP NOS Reference RSC/Q0935
+
+Entry_120: Qualification Pack Details: QP NOS Name Rubber Nursery Worker-Budder QP NOS Reference AGR/Q0203 NSQF Level 4 QP NOS Name Coffee Plantation Worker ISCO 08 Unit Group Details: NSQF Level 2
+
+Entry_121: Code 6112 ISCO 08 Unit Group Details: Title Tree and Shrub Crop Grower
+
+Entry_122: Title Tree and Shrub Crop Grower Rubber Nursery Worker-General 6112.0701 Bamboo Grower Rubber Nursery Worker carries out all the labour oriented nursery activities. He is responsible for the timely completion of
+
+Entry_123: Bamboo Grower is responsible for all seasonal activities facilitating smooth cultivating bamboo as per the running of the nursery and production of recommended practices for a given agro quality planting materials as envisaged by economic zone and achieve the expected the organization. yield. He is also responsible for hygienic harvest and post-harvest of the bamboo
+
+Entry_124: Qualification Pack Details: and ensuring sale of the same. QP NOS Reference RSC/Q0936
+
+Entry_125: Qualification Pack Details: QP NOS Name Rubber Nursery Worker-General QP NOS Reference AGR/Q1101 NSQF Level 4 QP NOS Name Bamboo Grower NSQF Level 4 ISCO 08 Unit Group Details: ISCO 08 Unit Group Details: Code 6112
+
+Entry_126: Title Tree and Shrub Crop Grower VOLUME II B 11 National Classification of Occupations – 2015 Divison 6 6112.9900 crop and supervises plucking, tapping and
+
+Entry_127: Tree and Shrub Crop Growers, threshing of leaves, etc. Ensures proper maintenance and development of
+
+Entry_128: Other plantation estate. Supervises recruitment and welfare of labour employed.
+
+Entry_129: Maintains records relating to cost of include those who plan and carry out the production, sale and other accounts. May necessary operations to grow and harvest conduct research and organize trees and shrubs not elsewhere classified. demonstration. May arrange preservation of produce and partially process them ISCO 08 Unit Group Details: prior to marketing. Is designated as
+
+Entry_130: Cinchona; Planter, Cocoa; Planter, Rubber according to type of crop grown.
+
+Entry_131: Gardeners, horticultural and nursery growers plan organize and perform 6113.0200 operations to cultivate and maintain Nurseryman trees, shrubs, flowers and other plants in parks and private gardens, and to produce Nurseryman; Mali, Nursery manages saplings, bulbs and seeds, or grow nursery on own account, or on behalf of vegetables and flowers by intensive employer to grow trees, plants, flowers, cultivation techniques, for sale or delivery shrubs, creepers, seeds, bulbs etc. in open on a regular basis to wholesale buyers, air or green houses for sale to customers. marketing organizations or at markets. Decides kind and number of plants to be grown and method of planting, cultivating 6113.0100 and treatment based on soil, climatic
+
+Entry_132: Planter conditions, irrigation facilities etc. Selects and purchases seeds, fertilizers,
+
+Entry_133: Planter manages plantation on own insecticide. Equipment and machinery and account to grow plantation crops such as other items. Plans preparation of beds tea, coffee, rubber, etc. Arranges to and method of planting, depending on procure seed according to type of crop type of plants to be grown. Prepares bed such as tea, coffee, rubber, etc. by various processes such as breaking soil,
+
+Entry_134: Determines kinds of crop to be grown. mixing fertilizers, etc. sows seeds, plants,
+
+Entry_135: Gets land cleared and prepared for seedlings, cuttings or propagates plants by growing crops by digging, ploughing, grafting, budding and other methods and harrowing etc. Organizes and supervises makes water channels. Watches growth of various farm operations, sowing, sapling, seedlings, grafts and plants. Hoes manuring, weeding, spraying insecticide, and prunes excess growth and off-shoots and protection of crop from destruction of plants, dusts and sprays pesticides and by wild animals. Arranges harvesting of takes other measures to protect plants VOLUME II B 12 National Classification of Occupations – 2015 Divison 6 from pets, wild animals, etc. Observes Qualification Pack Details: development of plants. Develops methods QP NOS Reference AGR/Q0202 of grafting and budding./ Collects and QP NOS Name Gardener preserves seeds for sale. Hires labour if NSQF Level 4 necessary and undertakes planting, ISCO 08 Unit Group Details: weeding, pruning etc. as required.
+
+Entry_136: Nursery Growers good condition. Keeps records of cost and production statement. Sells seedling, 6113.0400 seeds, bulbs etc. May specialize in
+
+Entry_137: Grounds man; Grounds Keeper prepares ISCO 08 Unit Group Details: and keeps up recreation and sports
+
+Entry_138: Title Gardeners, Horticultural and games. Grades and selects site. Supervises
+
+Entry_139: Nursery Growers breaking of soil, removal of weeds and foreign matters and retains required type 6113.0301 of grass if necessary. Plans drainage,
+
+Entry_140: Gardener, General checks final preparation of soil bed, mixes fertilizers with chemicals like sulphate of
+
+Entry_141: Gardener, General; Mali General grows iron to improve growth and colour of turf flowers, trees, shrubs, seedlings, and sows required type of grass seeds. vegetables, etc. in public or private Lays turf for preparing different types of gardens. Prepares soil and sows seeds, grounds and sports fields such as hockey, plants, seedlings etc. Waters seed-beds tennis, cricket, football, golf, etc. Gives and growing plants. Weeds and hoes necessary treatment to fields according to garden and prunes hedges and bushes. type of ground and pitch required such as
+
+Entry_142: Sprays and dusts pesticides and evolves turf wicket, matting wicket, golf course other measures to protect plants from etc. Dresses turf with nitro-chalk, diseases and wild animals. Prepares soil ammonium sulphate and other chemicals and lays lawn. Waters mows and levels at regular intervals to prevent invasion of lawns. Prepares paths and ensures their earth worms and diseases and adopts proper up-keep. Collects and preserves measures against ruinous actions of seeds for sowing. Supervises labourers rabbits, field mice etc. Top dresses turf by engaged for assistance. Keeps implements moving grass cutting and rolling. etc. in good working order. May maintain Investigates causes of bad lawns and takes green house for display. May cultivate appropriate steps to renovate neglected vegetables and fruit trees. May specialize lawns, fields and grounds. Measures and in ornamental gardening. May work in marks playing grounds, tracks etc., with nursery for improving variety of plants chalk line, sets up goal posts and performs from seeds, cuttings, grafting or budding related tasks. Supervises work of men and be designated as MALI, NURSERY. engaged in upkeep of fields May prepare
+
+Entry_143: May sell plants, buy seeds, fertilizers, annual calendar to facilitate progress. insecticides, etc. May pay wages to May trim hedges and maintain flowerbeds labourers employed. and pathways. VOLUME II B 13 National Classification of Occupations – 2015 Divison 6 ISCO 08 Unit Group Details: Floriculturist- (Protected
+
+Entry_144: Nursery Growers Floriculturist- (Protected Cultivation) performs the duties of a flower crop 6113.0501 cultivator in the green houses.
+
+Entry_145: Green House Fitter is responsible for the QP NOS Reference AGR/Q 0206 installation of greenhouse structure as per QP NOS Name Floriculturist- the structural layout and bill material (Protected prepared by the supplier which will meet Cultivation) up the exact requirement for the crops to NSQF Level 4 be frown under. ISCO 08 Unit Group Details:
+
+Entry_146: Qualification Pack Details: Code 6113 QP NOS Reference AGR/Q 0302 Title Gardeners, Horticultural and QP NOS Name Green House Fitter Nursery Growers NSQF Level 4 6113.9900 ISCO 08 Unit Group Details: Nursery Workers and Gardeners,
+
+Entry_147: Title Gardeners, Horticultural and Nursery Growers Nursery Workers and Gardeners, other include all other nursery workers and 6113.0601 gardeners engaged in growing flowers,
+
+Entry_148: Floriculturist- (Open Cultivation) seeds, bulbs, vegetables etc., not elsewhere classified.
+
+Entry_149: Floriculturist- (Open Cultivation) performs the duties of a flower crop cultivator in ISCO 08 Unit Group Details: the open field Code 6113
+
+Entry_150: Qualification Pack Details: Nursery Growers QP NOS Reference AGR/Q 0205 QP NOS Name Floriculturist- (Open Family 6114
+
+Entry_151: Mixed crop growers plan organize and ISCO 08 Unit Group Details: perform farming operations to grow and
+
+Entry_152: Title Gardeners, Horticultural and crops, field vegetables, tree and shrub
+
+Entry_153: Nursery Growers crops, and garden, horticultural and nursery products, for sale or delivery to 6113.0602 wholesale buyers, marketing organizations or at markets. VOLUME II B 14 National Classification of Occupations – 2015 Divison 6 6114.9900 profitability. The person is responsible for Mixed Crop Growers, Other working with Research and Development team in agriculture industries (including seed, fertilizer, pesticides, and micro
+
+Entry_154: Mixed Crop Growers, other include those irrigation industries) to satisfy the farmer who plan and carry out the necessary needs. They understand and market the operations to grow vegetables and technology to be transferred to farmers harvest specific combinations of field by way of demonstrations and training. crops, field vegetables, trees, shrub crops
+
+Entry_155: They also co-ordinate and motivate the and garden, horticultural and nursery farmers to adapt to modern methods for products not elsewhere classified. good returns. ISCO 08 Unit Group Details:
+
+Entry_156: Medicinal and Aromatic Plant ISCO 08 Unit Group Details:
+
+Entry_157: Medicinal and aromatic plant growers plan, organize and perform operations to 6116.0102 cultivate plants that are used in traditional
+
+Entry_158: Agriculture Extension Service medical practices such as Unani, Ayurveda
+
+Entry_159: Family 6116 responsible for speedy transfer of information and technology to farmers.
+
+Entry_160: Management generation of technology and its transfer to the farmers for increasing production, The agriculture information workers productivity and income from agriculture enhance the farmers’ knowledge about and allied sectors on a sustained basis. An crop techniques and help them to agriculture extension service provider increase production by sharing the latest gives talks, guidance and actual technical knowhow with the farmers. demonstrations on latest technologies 6116.0101 related to agriculture. He also works with
+
+Entry_161: Agriculture Extension Executive other experts in agriculture to learn more or even develop new methods that could advance production. Agriculture Extension Executive works with R&D team to market and transfer the technology, products, knowledge and Qualification Pack Details: information to the farmers, acting as a QP NOS Reference AGR/Q7601 bridge between the company and farmers increasing their productivity and VOLUME II B 15 National Classification of Occupations – 2015 Divison 6 QP NOS Name Agriculture Occupations in this Group are classified
+
+Entry_162: Provider NSQF Level 4 6121 Livestock and Dairy Producers 6122 Poultry Producers ISCO 08 Unit Group Details: 6123 Apiarists and Sericulturists
+
+Entry_163: Community Service Provider (CSP)/VLE is an individual selected from within a Livestock and dairy producers plan, village/area to act as a touch point organize and perform farming operations between the business and the customer to breed and raise domesticated animals to run the CSC. A VLE educates villagers on (excluding poultry), such as cattle, sheep, 26 Types OF G2C services and scores of pigs, goats, horses and camels, for the other services related to daily lives of rural production of meat, milk and other dairy population. The VLE then sells products products, skins, and wool or for use as and services offered by the corporate and working, sporting or recreational animals the Government through CSC. for sale or delivery to wholesale buyers, marketing organizations or at markets.
+
+Entry_164: Qualification Pack Details: QP NOS Reference AGR/Q7603 6121.0100 QP NOS Name Community Service Farmer, Livestock
+
+Entry_165: Farmer, Livestock manages farm on own account for raising and breeding different ISCO 08 Unit Group Details: kinds of livestock. Selects and purchases
+
+Entry_166: Title Mixed Crop Growers shelter animals from weather and gets enclosures put up for their safety.
+
+Entry_167: Animal Producers to feed animals and stock fodder and other feeding material through purchases.
+
+Entry_168: Animal producers plan, organize and pastures and ensures by constant watch perform farming operations to breed and that animals do not go astray or get lost. raise domesticated animals, poultry,
+
+Entry_169: Restrains them from drinking polluted insects and non-domesticated animals for water. Examines and treats animals for the production of meat, dairy products, minor injuries and infection. Arranges honey, skins, textiles and other products proper medical aid in serious cases. Trains or for use as working, sporting or to cultivate desirable habits in animals. recreational animals, for sale or delivery
+
+Entry_170: Selects and pairs pedigree animals for to wholesale buyers, marketing breeding. Gets animals bred by artificial organizations or at markets. VOLUME II B 16 National Classification of Occupations – 2015 Divison 6 insemination if necessary. Tends animals and protects and guards the young during birth and protects and guards animals. Arranges proper and regular young animals. Performs tasks connected cleaning of animals, sheds and with milking. Markets milk, and animals surroundings. Treats animals for minor for meat, breeding etc. Gets animals diseases and injuries and arranges proper inoculated and vaccinated in time and medical aid in serious cases. Arranges adopts preventive measures in case of cleaning and massaging of udder, milking outbreak of epidemic. Keeps records of of animals in hygienic manner by hand or feed consumed, milk and other items machine, preserving milk, transporting produced and stock sold or purchased. milk to various dairies and customer or
+
+Entry_171: Attends to all correspondence, accounts selecting and selling animals etc. as and administration of farm. Ensures required. Records feed consumed and proper cleaning of sheds and stable, milk and other products sold. Adopts flaying of skins and hides of fallen animals, appropriate measures to quarantine disposal of carcasses etc. as necessary. animals in case of epidemic. May get milk
+
+Entry_172: May raise particular breeds of animal. pasteurised before sale. May grow and
+
+Entry_173: May raise and exhibit show animals. May cultivate feed for animals. May raise and grow and cultivate feed for animals. exhibit show animals. May brand animals with identifying marks. May separate ISCO 08 Unit Group Details: cream from milk and prepare other milk
+
+Entry_174: Qualification Pack Details: 6121.0201 QP NOS Reference AGR/Q 0502
+
+Entry_175: Farmer, Dairy/Dairy QP NOS Name Dairy Farmer/Entrepreneur NSQF Level 4
+
+Entry_176: Code 6121 for production of milk, butter, ghee, etc.
+
+Entry_177: Title Livestock and Dairy Producers and arranges for their marketing. Selects and buys cattle. Makes proper 6121.0300 arrangements for housing and feeding them and gets them inoculated and Livestock Worker, General vaccinated in time to prevent diseases. Buys and stores feeding supplies. Livestock Worker, General performs any Determines amount of basic feed required combination of following tasks to bed, and prepared it by mixing oil cakes, feed, water, load and unload, weigh, mark roughages and minerals (salt and lime) in and segregate livestock awaiting slaughter desired quantity. Gives regulated diet to in ranch, sales or slaughter yard or in animals. Arranges their grazing on transit. Drives livestock into pens, killing available pastures. Ensures guarding of or loading trucks or railway waggons. animals from wandering and being lost, Weighs animals separately or in truck lots eating poisonous and harmful plants, and segregates them according to weight, drinking polluted water and mating with age, colour, and physical condition. Tags, stray animals. Selects and pairs animals paints or tattoos identifying marks on for breeding. Tends animals during birth livestock to signify ownership or grade of VOLUME II B 17 National Classification of Occupations – 2015 Divison 6 animal. Records weights and grades for Livestock Worker cleans pens, feeding, each animal processed. Scatters bedding watering and taking care of livestock. May material such as saw dust or straw in pens be designated as FURB EARING ANIMAL and maintains supply of water in watering WORKER if engaged in looking after tanks. Feeds livestock with hay, grain, or furbearing animals. other prepared feed as required. Cleans ISCO 08 Unit Group Details: pens, using hose, fork, shovel or rake. May Code 6121 apply liniment or other remedies to Title Livestock and Dairy Producers livestock when illness or injury is detected. May be designated according to 6121.0601 task performed. Dairy Farm Worker, General/Dairy Worker ISCO 08 Unit Group Details:
+
+Entry_178: Title Livestock and Dairy Producers dairy farm livestock of resident and non- resident owner. Attends to herd of 6121.0400 feeding cows and buffaloes and aiding in
+
+Entry_179: Herdsman calving, dehorning and vaccination. Keeps, barns, stalls, containers and dairy
+
+Entry_180: Herdsman; Grazier takes cattle and other equipment in clean and sanitary domestic animals out for grazing on own condition. Milks cows and buffaloes as or employer’s behalf. Collects animals required by hand or by machine. May mix every morning from different houses. and blend feed for farm livestock and
+
+Entry_181: Takes them out to available pastures for keep dairy records such as feed grazing in field. Keeps watch over them consumed, individual milk production, from being lost or strayed. Guards them gestation periods of cows and buffaloes from eating poisonous and harmful plants etc. May perform other tasks as directed. or drinking polluted water and indiscriminate mating with stray animals.
+
+Entry_182: Identifies animals in heat and arranges for Qualification Pack Details: pairing. Collects and counts them in QP NOS Reference AGR/Q 0501 evening and drives them back to their QP NOS Name Dairy Worker respective places. Ties them at fixed NSQF Level 2 places or hands them over to owners.
+
+Entry_183: May render first aid and assist in treating ISCO 08 Unit Group Details: minor injuries of animals. May be
+
+Entry_184: Title Livestock and Dairy Producers grazing and herding sheep and goats. 6121.0700
+
+Entry_185: Title Livestock and Dairy Producers and cleans milk cattle, collects various feeds mixes them and feeds animals 6121.0500 before milking. Regulates timing of Livestock Workers/Other Livestock milking. Cleans and disinfects buckets and Workers other containers used in milking in sun or VOLUME II B 18 National Classification of Occupations – 2015 Divison 6 vacuum. Ties hind legs of animals and Stableman washes hind quarter with chlorinated water. Cleans udder with plain chlorinated Stableman, Syce grooms, feeds and looks water and messages them by hand. after horses, camels, mules etc., in
+
+Entry_186: Disinfects hand by washing with stables. Grooms animals by brushing, chlorinated water. Adjusts buckets currying, washing them and trimming between own legs below udder. Presses their manes and tails using hair and metal udders alternatively with fingers to extract brushes, clippers and scissors. Waters milk from them into bucket. Stimulates feeds and exercises animals. Sweeps out flow of milk from udder by repeated stalls and spreads fresh straw. May treat supply of feed. Repeats pressing of udders sick or injured animal according to his to extract maximum milk. Carries bucket knowledge or may report their condition containing milk to specified place of to Veterinarian and follow his medical storing. Treats udder and other minor advice. May harness or saddle animals. injuries by applying antiseptic powder, May repair and recondition harness. May ointment, etc. May sell milk. May prepare train animals for riding or for pulling carts, ghee, butter and cream. tongas, etc. May take animals out for grazing. ISCO 08 Unit Group Details:
+
+Entry_187: Operator tends machine to milk dairy Elephant Keeper tends and looks after cows and buffaloes. Guides cows and feeding, washing and exercising of tame buffaloes into stanchion and cleans teats elephants and supervises general and their udder with disinfectant. cleanliness of their stables. Tethers
+
+Entry_188: Squeezes teats to collect sample of milk in elephants to ground anchor with chains, strainer cup and examines sample for curd fastened round front and hind legs. Leads and blood. Starts milking machine and elephants to watering places and scrubs attaches cups of machine to teats of cows their hide to remove dirt, ticks and and buffaloes. Removes cups when parasites. Inspects them for sickness or required amount of milk is obtained. Dips injuries and reports uneasiness or cups of machine into disinfectant solution ailments to Mahout or Veterinarian. after each animal is milked. Empties milk Treats elephants as directed by them. receptacles and cleans and sterilizes Gathers fodder and feeds animals with equipment. masalas (Special food mixture). Files foot nails and sweeps refuse from stables. ISCO 08 Unit Group Details: Straps howdah (riding arrangement) on its
+
+Entry_189: Code 6121 back and prepares elephant for ride, when
+
+Entry_190: Title Livestock and Dairy Producers desired. May polish and maintain ‘howdahs’ and paint forehead and trunk 6121.1000 of elephant with attractive design on VOLUME II B 19 National Classification of Occupations – 2015 Divison 6 ceremonial occasions. May act as guide 6121.1400 and answer queries of visitors. May cut off Grass Cutter excessive growth of tusk by sawing under guidance of Mahout. May assist in training
+
+Entry_191: Grass Cutter cuts grass from fields and wild elephants and tending young calves. gardens with sickle or other grass cutting
+
+Entry_192: May ride elephants in absence of Mahout. implements, for feeding cattle or other animals. Mixes different varieties of grass ISCO 08 Unit Group Details: to make feed palatable to animals. Carries
+
+Entry_193: Code 6121 grass to stable or to market for sale. Keeps
+
+Entry_194: Title Livestock and Dairy Producers tools sharp. May feed grass to animals.
+
+Entry_195: May cut hay and other fodder into small 6121.1200 pieces with hand or mechanically
+
+Entry_196: Shearer, Sheep collects sheep at shearing ISCO 08 Unit Group Details: yard. Shears wool closely from sheep, Code 6121 clipping carefully to avoid cutting or Title Livestock and Dairy Producers nicking its skin. Gathers black and white wool in separate piles. Keeps clippers 6121.9900 sharpened. May deliver wool to storing Dairy and Livestock Producers, yard.
+
+Entry_197: Title Livestock and Dairy Producers necessary operations to breed, raise and tend livestock to be used as working, 6121.1300 sporting, or pet animals, as well as for
+
+Entry_198: Shearer, Animal, Other/Shearer, meat, milk, hair, hides and other products
+
+Entry_199: Other Animals for sale or delivery on a regular basis to wholesale buyers, marketing
+
+Entry_200: Shearer Animals cuts with scissors or organizations or at markets not elsewhere clippers hair or bristles of its skin. Gathers classified. black and white wool in horses, camels, pigs and other animals, not elsewhere ISCO 08 Unit Group Details: classified. Ties and immobilises animal Code 6121 before clipping. Selects suitable clipping Title Livestock and Dairy Producers instrument and closely clips hair or bristles taking care not to cut or nick its Family 6122 skin. Maintains and sharpens tools. May sort bristles according to size and quality.
+

@@ -1,0 +1,400 @@
+Entry_1: NATIONAL CLASSIFICATION OF OCCUPATIONS-2015 (Occupational Description)
+
+Entry_2: Directorate General of Employment www.ncs.gov.in NATIONAL CLASSIFICATION OF OCCUPATIONS-2015 (Occupational Description)
+
+Entry_3: Directorate General of Employment www.ncs.gov.in I i II ii III iii IV iv V v VI vi
+
+Entry_4: Table of Contents VOL- II A 1. Division 1 1 - 62 2. Division 2 63 - 292 3. Division 3 293 - 479 4. Division 4 480 - 519 5. Division 5 520 - 573 INDEX National Classification of Occupations – 2015 Division 1 13 Production and Specialized
+
+Entry_5: Managers plan, direct, co-ordinate and and Legislators evaluate the overall activities of enterprises, governments and other organizations, or of organizational units Chief Executives, Senior Officials and within them, and formulate and review Legislators formulate and review the their policies, laws, rules and regulations. policies and plan, direct, co-ordinate and Tasks performed by managers usually evaluate the overall activities of include: formulating and advising on the enterprises, governments and other policy, budgets, laws and regulations of organizations with the support of other enterprises, governments and other managers. organizational units; establishing Tasks performed usually include: presiding objectives and standards and formulating over or participating in the proceedings of and evaluating programmes and policies legislative bodies, board of directors and and procedures for their implementation; committees; formulating and advising on ensuring appropriate systems and the policy budgets, laws and regulations procedures are developed and of enterprises, governments and other implemented to provide budgetary organizations; establishing objectives for control; authorising material, human and enterprises, government departments or financial resources to implement policies agencies and other organizations; and programmes. Monitoring and formulating or approving and evaluating evaluating performance of the programmes and policies and procedures organization or enterprise and of its staff; for their implementation; ensuring selecting, or approving the selection of appropriate systems and procedures are staff; ensuring compliance with health and developed and implemented to provide safety requirements; planning and budgetary control; authorising material, directing daily operations; representing human and financial resources to and negotiating on behalf of the implement policies and programmes; government, enterprise or organizational monitoring and evaluating performance of unit managed in meetings and other the organization or enterprise; selecting, forums. or approving the selection of senior staff; performing ceremonial duties and Occupations in this Division are classified representing the enterprise, government, into the following Sub Divisions: organization or community at official occasions and in meetings, negotiations, conventions and public hearings. 11 Chief Executives, Senior Officials and Legislators Occupations in this Sub Division are 12 Administrative and Commercial classified into the following Groups:
+
+Entry_6: Managers 111 Legislators and Senior Officials VOLUME II A 1 National Classification of Occupations – 2015 Division 1 112 Managing Directors and Chief Elected Official, Union Government
+
+Entry_7: Elected Official, Union Government serves in various capacities in legislative and
+
+Entry_8: Legislators and Senior Officials advisory functions, which include serving as head of the Indian Union; presiding
+
+Entry_9: Legislators and senior officials determine, over deliberations of Houses of formulate, advise on and direct the
+
+Entry_10: Parliament; leading council of ministers of implementation of policies of national,
+
+Entry_11: Union Government; shaping, determining state, regional or local governments or and defining government policies and communities, and of special interest directing their application and execution organizations. They make, ratify, amend through departmental heads; or repeal laws, public rules and representing interests of voters in regulations and plan, organize, direct,
+
+Entry_12: Parliament, on committees and control and evaluate the overall activities commissions; and taking part in making, of government departments and agencies, amending or repealing laws. Is designated traditional communities and special according to work performed or post held, interest organizations such as: PRESIDENT OF INDIA; RASHTRAPATI. VICE Occupations in this Group are classified PRESIDENT OF INDIA; UP-RASHTRAPATI. into the following Families: SPEAKER, LOK SABHA. CHAIRMAN, RAJYA SABHA. PRIME MINISTER OF INDIA. 1111 Legislators MINISTER, UNION GOVERNMENT. 1112 Senior Government Officials MEMBER OF PARLIAMENT. 1113 Traditional Chiefs and Heads of
+
+Entry_13: Villages ISCO 08 Unit Group Details: 1114 Senior Officials of Special-interest
+
+Entry_14: Legislators determine, formulate, and Elected Official, State Government serves direct policies of national, state, regional in various capacities in legislative and or local governments and international executive branches of State Government. governmental agencies. They make, ratify, Performs, administrative, executive or amend or repeal laws, public rules and advisory functions, which include leading regulations. They include elected and non- council of ministers of State Government; elected members of parliament, councils shaping, determining and defining and governments. government policies, and directing application and execution of government policies through departmental heads; presiding over deliberations of Houses of 1111.0100
+
+Entry_15: State Legislatures; committees and VOLUME II A 2 National Classification of Occupations – 2015 Division 1 commissions; and taking part in making, Code 1111 amending or repealing laws. Is designated Title Legislators according to work performed or post held, such as: CHIEF MINISTER. MINISTER, 1111.9900 STATE GOVERNMENT. CHAIRMAN, Legislators, Other LEGISLATIVE COUNCIL. SPEAKER, LEGISLATIVE ASSEMBLY. MEMBER,
+
+Entry_16: Elected Officials, Other include all other LEGISLATIVE ASSEMBLY.
+
+Entry_17: Elected Officials performing administrative, executive or advisory ISCO 08 Unit Group Details: functions in educational, religious, social,
+
+Entry_18: Title Legislators organizations and such other permanent or ad-hoc private bodies, not else-where 1111.0300 classified.
+
+Entry_19: Elected Official, Local Bodies ISCO 08 Unit Group Details:
+
+Entry_20: Elected Official, Local Bodies serves in Code 1111 various capacities in policy making and Title Legislators executive branches of local bodies.
+
+Entry_21: Performs administrative, executive or Family 1112 advisory functions in matters entrusted to
+
+Entry_22: Senior Government Officials local bodies e.g. public health, sanitation, primary education, building and road
+
+Entry_23: Senior government officials advise construction, drainage, street-lighting, governments on policy matters, oversee raising and collection of admissible local the interpretation and implementation of taxes and their proper administration, and government policies and legislation by all other connected matters for the government departments and agencies, benefit of local people, including represent their country abroad and act on enforcement of local laws and emergency its behalf, or carry out similar tasks in measures as necessary. Is designated intergovernmental organizations. They according to work performed or post held plan, organize, direct, control and such as: MAYOR, MUNICIPAL evaluate the overall activities of municipal CORPORATION. COUNCILLOR, CITY or local, regional and national government MUNICIPAL CORPORATION. CHAIRMAN, departments, boards, agencies or CITY MUNICIPAL CORPORATION. commissions in accordance with CHAIRMAN, MUNICIPALITY. MEMBER legislation and policies established by MUNICIPALITY. CHAIRMAN, DISTRICT government and legislative bodies. BOARD. MEMBER, DISTRICT BOARD. CHAIRMAN, CANTONMENT BOARD. MEMBER, CANTONMENT BOARD. 1112.0100 CHAIRMAN, TOWN AREA COMMITTEE. Administrative Official, Union MEMBER, TOWN AREA COMMITTEE. Government CHAIRMAN, BLOCK SAMITI. SARPANCH, PANCHAYAT. MEMBER, PANCHAYAT.
+
+Entry_24: Government serves in various capacities ISCO 08 Unit Group Details: under Union Government. Performs VOLUME II A 3 National Classification of Occupations – 2015 Division 1 administrative and advisory functions, Diplomat represents Union of India in which include advising minister on all other countries or at international matters of policy and administration organizations, meetings and conferences. within his sphere of responsibility; Interprets policies of Indian Government organizing and directing work of ministries in foreign countries and advises his and departments; taking policy decisions Government on matters of foreign to extent authorized; supervising relations, trade, commerce, etc. execution and implementation of policies Negotiates and enters into agreements and decisions by field or subordinate with other countries and nations. Issues offices etc. Is designated according to visas to foreigners for visit to India and work performed or post held, such as: looks after welfare of Indians abroad, and MEMBER, OF UNION PUBLIC SERVICE generally promotes interest of his COMMISSION. MEMBER, CENTRAL BOARD country. Is designated according to rank OF REVENUE. MEMBER, RAILWAY BOARD. held or work performed, such as: MEMBER PLANNING COMMISSION. AMBASSADOR HIGH COMMISSIONER SECRETARY TO THE GOVERNMENT OF ENVOY MINISTER (DIPLOMAT) INDIA JOINT SECRETARY TO THE PERMANENT REPRESENTATIVE COUNSEL GOVERNMENT OF INDIA. DEPUTY GENERAL CHARGE D AFFAIRS TRADE SECRETARY TO THE GOVERNMENT OF COMMISSIONER. INDIA. UNDER SECRETARY TO THE GOVERNMENT OF INDIA. DIRECTOR- ISCO 08 Unit Group Details: GENERAL, CIVIL AVIATION. DIRECTOR Code 1112 GENERAL, ALL INDIA RADIO DIRECTOR- Title Senior Government GENERAL, POSTS AND TELEGRAPHS. Officials DIRECTOR-GENERAL, SUPPLIES AND DISPOSALS. DIRECTOR-GENERAL 1112.0300 SHIPPING. DIRECTOR-GENERAL OF
+
+Entry_25: Executive Officials, Union EMPLOYMENT AND TRAINING.
+
+Entry_26: Government CONTROLLER AND AUDITOR GENERAL. CONTROLLER, IRON AND STEEL.
+
+Entry_27: Executive Official, Union Government COMMISSIONER, TEXTILE. CUSTODIAN serves in various executive capacities in GENERAL. CHIEF CONTROLLER OF
+
+Entry_28: Union Government, giving effect to IMPORTS AND EXPORTS. CHIEF policies and decisions of Government. COMMISSIONER, ELECTION. CHIEF
+
+Entry_29: Performs or supervises performance of COMMISSIONER, LABOUR other executives and field duties such as COMMISSIONER, SALT. REGISTRAR- assessing and collecting revenues; issuing GENERAL, CENSUS. passports, licenses and other authorizations; supervising elections; ISCO 08 Unit Group Details: reconciling parties in trade disputes;
+
+Entry_30: Title Senior Government enforcing and implementing various rules,
+
+Entry_31: Officials regulations and provisions of law. Is designated according to work performed 1112.0200 or post held, such as: COMMISSIONER,
+
+Entry_32: Diplomat DEVELOPMENT COMMISSIONER, INCOME-TAX CUSTODIAN, EVACUEE VOLUME II A 4 National Classification of Occupations – 2015 Division 1 PROPERTY DIRECTOR OF INSPECTION, ISCO 08 Unit Group Details: CUSTOMS DIRECTOR, MARKETING Code 1112 DIRECTOR OF TRAINING, DIRECTOR OF Title Senior Government Officials EMPLOYMENT EXCHANGES, REGIONAL 1112.0500 LABOUR COMMISSIONER, COLLECTOR,
+
+Entry_33: Executive Official, State CENTRAL EXCISE, SUPERINTENDENT,
+
+Entry_34: Government CUSTOMS, INCOME-TAX OFFICER, SUPERINTENDENT, CENTRAL EXCISE,
+
+Entry_35: Executive Official, State Government PASSPORT OFFICER, SETTLEMENT serves in various capacities in State OFFICER, CONCILIATION OFFICER
+
+Entry_36: Government giving effect to policies and (CENTRAL). decisions of Government. Performs or supervises performance of executive and ISCO 08 Unit Group Details: field duties which include maintenance of
+
+Entry_37: Title Senior Government Officials taxes, duties, land revenues, etc.; issuing licenses; executing development schemes; 1112.0400 reconciling parties in trade disputes;
+
+Entry_38: Administrative Official, State inspecting schools, factories, shops,
+
+Entry_39: Government offices and establishments; and enforcing various rules, regulations and provisions Administrative Official, State Government of law. Is designated according to work serves in various capacities in State performed or post held, such as:
+
+Entry_40: Government. Performs administrative and COLLECTOR; DEPUTY COLLECTOR; SUB- advisory functions which include serving DEPUTY COLLECTOR; DEPUTY as Head of State; advising ministers, on all COMMISSIONER. DISTRICT OFFICER; SUB- matters of policy and administration DIVISIONAL OFFICER; LAND RECORD within his sphere of responsibility; OFFICER; TEHSILDAR; SUPERINTENDENT organizing and directing work of OF POLICE CIRCLE OFFICE; SALES-TAX departments; taking policy decisions to OFFICER; SUPERINTENDENT, JAIL; JAILOR, the extent authorised; supervising SUPERINTENDENT OF INDUSTRIES execution and implementation of policies DISTRICT INDUSTRIES OFFICER and decisions by field or subordinate MARKETING OFFICER. RATIONING officers. Is designated according to work OFFICER. SUPPLY OFFICER. RENT performed or post held, such as: CONTROL AND EVICTION OFFICER, GOVERNOR; RAJYAPAL; LIEUTENANT REGIONAL TRANSPORT OFFICER, DISTRICT GOVERNOR MEMBER, STATE PUBLIC PLANNING OFFICER, CO-OPERATIVE SERVICE COMMISSION, MEMBER, BOARD OFFICER, CONCILIATION OFFICER (STATE), OF REVENUE, CHIEF SECRETARY TO PANCHAYAT RAJ OFFICER. GOVERNMENT (STATE), SECRETARY TO GOVERNMENT (STATE), DEPUTY ISCO 08 Unit Group Details: SECRETARY TO GOVERNMENT (STATE), Code 1112 UNDER SECRETARY TO GOVERNMENT Title Senior Government (STATE), CHIEF COMMISSIONER Officials DEVELOPMENT, COMMISSIONER OF DIVISION, DIRECTOR OF EDUCATION, DIRECTOR OF INDUSTRIES. VOLUME II A 5 National Classification of Occupations – 2015 Division 1 1112.0600 HARYANA URBAN DEVELOPMENT
+
+Entry_41: Administrative and Executive AUTHORITY, SECRETARY, GHAZIABAD DEVELOPMENT AUTHORITY.
+
+Entry_42: Officials, Quasi Government (Central) ISCO 08 Unit Group Details:
+
+Entry_43: Officials organizes, co-ordinates and controls within authority delegated, activities of 1112.0800 quasi-government organizations, establishment, etc. or one or more of its Administrative and Executive departments/branches or sections; and Officials, Local Bodies includes officials such as: CHAIRMAN, UNIVERSITY GRANTS COMMISSION Administrative and Executive Official, CHAIRMAN, COAL MINES WELFARE Local Bodies plans, organizes, co-ordinates COMMISSION, SECRETARY, INDIAN RED and controls functions of the city CROSS SOCIETY, SECRETARY, MICA MINES corporation, improvement trust, LABOUR WELFARE FUND ADVISORY municipality, district board, cantonment COMMITTEE, SECRETARY, RAILWAY RATES board, notified area committee or other TRIBUNAL, CONTROLLER OF EMIGRANT local bodies, and executes and LABOUR, DIRECTOR-GENERAL, implements or supervises execution and EMPLOYEES STATE INSURANCE implementation of decisions, rules and CORPORATION. regulations and by-laws of local bodies and also assesses and collects local taxes. ISCO 08 Unit Group Details: Is designated according to work
+
+Entry_44: Title Senior Government COMMISSIONER, CITY CORPORATION,
+
+Entry_45: Officials EXECUTIVE OFFICER, IMPROVEMENT TRUST; EXECUTIVE OFFICER, 1112.0700 CANTONMENT, BOARD; EXECUTIVE
+
+Entry_46: Administrative & Executive OFFICER; MUNICIPAL BOARD, SECRETARY, DISTRICT BOARD TAX SUPERINTENDENT,
+
+Entry_47: Officials, Quasi Government (State) OCTROI SUPERINTENDENT
+
+Entry_48: Administrative and Executive Official, ISCO 08 Unit Group Details:
+
+Entry_49: Title Senior Government within authority delegated, activities of
+
+Entry_50: Officials quasi-government organizations, establishments, etc. or one or more of its 1112.9900 departments/branches or sections; and includes officials such as: VICE Senior Government Officials, Other CHANCELLOR, STATE UNIVERSITIES, DEAN, STATE AUTONOMOUS EDUCATIONAL Administrative and Executive Officials, INSTITUTES, CHAIRMAN, STATE Government and Local Bodies, Other CORPORATIONS/BOARDS, CHAIRMAN, Include all other administrative and VOLUME II A 6 National Classification of Occupations – 2015 Division 1 executive officials of government, quasi- Political Worker takes part in various government or local body, engaged in activities of the political party to which he taking policy decisions and their belongs. Contacts people for propagating implementation, general management ideology of his party and to enquire about and supervision of its one or more their difficulties. Acts as link between branches, sections and departments, not people and legislators. Organizes activities elsewhere classified. of the party in his area. May act as
+
+Entry_51: President or Secretary of his party. May ISCO 08 Unit Group Details: also function as President of Panchayat or
+
+Entry_52: Title Senior Government ISCO 08 Unit Group Details:
+
+Entry_53: Traditional Chiefs and Heads of Villages Workers and Other Economic perform a variety of legislative,
+
+Entry_54: Interest Organizations administrative and ceremonial tasks and duties, determined by ancient traditions, Senior Officials of Employers’, workers’ as well as by the division of rights and and other economic-interest organizations responsibilities between village chiefs and determine and formulate policies, rules the local, regional and national and regulations of their respective authorities. organizations, direct their application, represents these organizations and act on
+
+Entry_55: Senior Officials of Special-interest Title Senior Officials of Special-interest
+
+Entry_56: Organizations determine, formulate and Organizations direct the implementation of policies of special-interest organizations, such as 1114.0300 political-party organizations, trade unions, Director, Disaster Management employers' organizations, trade and
+
+Entry_57: Services industry associations, humanitarian or charity organizations, or sports
+
+Entry_58: Director, Disaster Management Services associations, and represent their directs and co-ordinates regional organizations and act on their behalf. programme activities of various agency to 1114.0100 provide specialized human services, such Political Worker as water safety programmes, disaster relief, and emergency transportation:
+
+Entry_59: Consults with co-operating agencies, such VOLUME II A 7 National Classification of Occupations – 2015 Division 1 as police, firefighters and emergency Managing Directors and Chief ambulance services to co-ordinate efforts Executives and define areas of jurisdiction.
+
+Entry_60: Participates in programme activities to formulate and review the policies, plan, serve clients of agency. Prepares budgets direct, co-ordinate and evaluate the to control costs and to allocate funds in overall activities of enterprises or accordance with provisions and agency organizations (except special interest charter. May instruct agency staff and organizations and government volunteers in skills required to provide departments) with the support of other services. May forward requisitions and managers, usually within guidelines arrange for maintenance of equipment, established by a Board of Directors or a such as two way radios and agency governing body to whom they are vehicles. May co-ordinate services to answerable for the operations undertaken disaster victims and safety programmes, and their result. such as water safety and emergency first aid, and also co-ordinates transportation Occupations in this Group are classified of agency clients, blood and medical into the following Families: supplies and equipment. 1120 Managing Directors and Chief ISCO 08 Unit Group Details:
+
+Entry_61: Organizations, Other Managing Directors and Chief Executives formulate and review the policies and plan, direct co-ordinate and evaluate the
+
+Entry_62: Senior Officials of Humanitarian and other overall activities of enterprises or
+
+Entry_63: Special-interest Organizations, Other organizations (except special interest include senior officials of humanitarian organizations and government and other special-interest organizations departments). They work with the support who determine and formulate policies, of other managers, usually within rules and regulations of humanitarian guidelines established by a Board of organizations, sports associations or other
+
+Entry_64: Directors or a governing body to whom special-interest organizations. Directs they are answerable for the operations their application, represents these undertaken and their result. organizations and acts on their behalf. 1120.0100 ISCO 08 Unit Group Details: Working Proprietor, Electricity
+
+Entry_65: Title Senior Officials of Special-interest Organizations Working Proprietor, Electricity plans, organizes and controls in broad outline, within authority delegated, activities of
+
+Entry_66: Group 112 private or public organizations or VOLUME II A 8 National Classification of Occupations – 2015 Division 1 establishments or one or more of its 1120.0400 branches, departments, etc. engaged in Director, Electricity generation, transmission and distribution of electricity to domestic and industrial
+
+Entry_67: Director, Electricity heads the organization consumers. Is designated according to and is supported by more than one work performed or powers exercised. manager. Determines, plans, organizes and controls in broad outline, within ISCO 08 Unit Group Details: authority delegated, activities of private
+
+Entry_68: Code 1120 or public organizations or establishments
+
+Entry_69: Title Managing Directors and Chief or one or more of its branches,
+
+Entry_70: Executives departments, etc. engaged in generation, transmission and distribution of electricity 1120.0200 to domestic and industrial consumers. Is Working Proprietor, Gas designated according to work performed or powers exercised. Working Proprietor, Gas plans, organizes and controls, within authority delegated ISCO 08 Unit Group Details: activities of public or private organizations Code 1120 or enterprises, or one or more of its Title Managing Directors and Chief departments, sections or branches, Executives engaged in manufacture of gas, distribution and supply of gas to 1120.0500 consumers and production and supply of Director, Gas steam for heat and power. Is designated according to work performed or powers
+
+Entry_71: Director, Gas heads the organization and exercised. is supported by more than one manager.
+
+Entry_72: Determines, plans, organizes and controls, ISCO 08 Unit Group Details: within authority delegated activities of
+
+Entry_73: Title Managing Directors and Chief enterprises, or one or more of its
+
+Entry_74: Executives departments, sections or branches, engaged in manufacture of gas, 1120.0300 distribution and supply of gas to Working Proprietor, Water Supply consumers and production and supply of steam for heat and power. Is designated according to work performed or powers Working Proprietor, Water Supply plans, exercised. organizes and co-ordinates, within authority delegated, activities of public or ISCO 08 Unit Group Details: private organizations engaged in storage, filtration, purification and supply of water. Code 1120
+
+Entry_75: Title Managing Directors and Chief ISCO 08 Unit Group Details: Executives 1120.0600
+
+Entry_76: Title Managing Directors and Chief Director, Water Supply
+
+Entry_77: Executives VOLUME II A 9 National Classification of Occupations – 2015 Division 1
+
+Entry_78: Director, Water Supply heads the ISCO 08 Unit Group Details: organization and is supported by more Code 1120 than one manager. Determines, plans, Title Managing Directors and Chief organizes and co-ordinates, within Executives authority delegated, activities of public or private organizations engaged in storage, 1120.0900 filtration, purification and supply of water. Working Proprietor,
+
+Entry_79: Mines/Proprietor, Mines ISCO 08 Unit Group Details:
+
+Entry_80: Title Managing Directors and Chief organizes, directs and controls the
+
+Entry_81: Executives enterprise wholly or partially and is engaged in economic activities related to 1120.0700 extraction of coal, ore, mica, precious
+
+Entry_82: Director, Bank stones and other minerals from underground mines or open pits, and
+
+Entry_83: Director, Bank sets broad policies and treatment of minerals for use by plans and supervises in general way, consumers. Is designated according to within authority delegated, efficient mineral extracted such as: WORKING operation of private or public bank or PROPRIETOR, GOLD MINE, WORKING major segment of it. May be designated PROPRIETOR, DIAMOND MINE, WORKING according to authority delegated or work PROPRIETOR, COAL MINE, WORKING performed such as: GOVERNOR (BANK), PROPRIETOR, IRON MINE, WORKING CHAIRMAN (BANK), MANAGING PROPRIETOR, MANGANESE, MINE DIRECTOR (BANK). WORKING PROPRIETOR, COPPER MINE WORKING PROPRIETOR, MICA MINE. ISCO 08 Unit Group Details:
+
+Entry_84: Director, Insurance sets broad policies, Quarry/Proprietor, Quarry plans and co-ordinates within authority delegated, activities of private or public Working Proprietor, Quarry plans, organization, or major segment of it, organizes, directs and controls the dealing in life, fire, accident, marine and enterprise, wholly or partially and is other general insurance business. Is engaged in economic activities related to designated according to work performed extraction of stone, slate, sand and clay or authority exercised, such as: from earth. Is designated according to the CHAIRMAN, LIFE INSURANCE material quarried such as: CORPORATION, MANAGING DIRECTOR, WORKING PROPRIETOR, STONE QUARRY, (INSURANCE), DIRECTOR, INVESTMENTS WORKING PROPRIETOR, SLATE QUARRY. (INSURANCE). VOLUME II A 10 National Classification of Occupations – 2015 Division 1 ISCO 08 Unit Group Details: ISCO 08 Unit Group Details:
+
+Entry_85: Title Managing Directors and Chief Title Managing Directors and Chief
+
+Entry_86: Executives Executives 1120.1100 1120.1300 Working Proprietor, Well Director, Construction
+
+Entry_87: Director, Construction plans, co-ordinates Working Proprietor, Well Drilling plans, and controls, within powers delegated, organizes, directs and controls the activities of public or private organizations enterprise wholly or partially and is or one or more of its branches or engaged in economic activities related to departments engaged in construction, drilling and sinking of deep wells, and maintenance and repairs of buildings, operating wells for extraction of crude roads, bridges, railway tracks, petroleum, natural gas, water and other aerodromes, canals, dams, etc. Is liquids and semi-liquids from deep below designated according to work performed earth’s surface. or authority exercised such as:
+
+Entry_88: Is designated according to the type of well MANAGING DIRECTOR(CONSTRUCTION). such as: PROJECT DIRECTOR(CONSTRUCTION). WORKING PROPRIETOR, OIL WELL. WORKING PROPRIETOR, GAS WELL. ISCO 08 Unit Group Details: WORKING PROPRIETOR, WATER WELL. Code 1120
+
+Entry_89: Title Managing Directors and Chief ISCO 08 Unit Group Details: Executives
+
+Entry_90: Director, Mine plans, directs and co- Working Proprietor, ordinates, within powers delegated
+
+Entry_91: Construction/Proprietor, activities of public or private organizations
+
+Entry_92: Construction engaged in extracting coal, ores, mica, precious stones and other solid minerals from underground mines or open pits and Working Proprietor, Construction in treating and dressing ore or minerals at formulates policies, plans, organizes and mine site. Is designated according to work controls activities of the organization or performed or powers delegated such as: enterprise, wholly or partially., Is engaged MANAGING DIRECTOR (MINES). in construction, maintenance and repair DIRECTOR, SALES (MINES). of buildings, roads, bridges, railway tracks, aerodromes, canals, dams, etc. Is ISCO 08 Unit Group Details: designated as: CONTRACTOR, BUILDING CONSTRUCTION. Code 1120 CONTRACTOR, CANAL CONSTRUCTION, Title Managing Directors and Chief etc. Executives VOLUME II A 11 National Classification of Occupations – 2015 Division 1 1120.1500 Working Proprietor, Manufacturing plans
+
+Entry_93: Director, Quarry organizes, co-ordinates and controls activities of enterprises wholly or partially and is engaged in producing, maintaining
+
+Entry_94: Director, Quarry plans, directs and co- or repairing capital and consumer goods ordinates, within powers delegated, excluding crops, minerals, electricity and activities of public or private organization natural gas. Is designated according to the engaged in excavating stone, slate, clay industry owned and controlled, such as: and sand from earth. Is designated WORKING PROPRIETOR, TEXTILE MILLS, according to work performed or powers WORKING PROPRIETOR, ENGINEERING exercised such as: MANAGING DIRECTOR, WORKSHOP. WORKING PROPRIETOR, QUARRY, DIRECTOR, STONE QUARRY. SHOE FACTORY, WORKING PROPRIETOR, DIRECTOR, MARBLE QUARRY. DIRECTOR, GLASS FACTORY. WORKING PROPRIETOR, LIMESTONE QUARRY. STEEL ROLLING MILLS WORKING PROPRIETOR PRINTING PRESS, ISCO 08 Unit Group Details: WORKING PROPRIETOR,
+
+Entry_95: Title Managing Directors and Chief WORKING PROPRIETOR, BAKERY.
+
+Entry_96: Director, Well Drilling plans, directs and co-ordinates, within powers delegated, 1120.1800 activities of public or private organization
+
+Entry_97: Director Manufacturing engaged in drilling and sinking deep wells and operating wells for extraction of
+
+Entry_98: Director, Manufacturing plans, organizes, mineral oil, natural gas, etc. Is designated co-ordinates and controls within authority according to work performed or economic delegated, activities of private or public activity directed, such as: MANAGING organizations, or one or more of its DIRECTOR, OIL WELL, MANAGING departments or branches, engaged in DIRECTOR, GAS WELL, DIRECTOR, OIL producing, maintaining or repairing capital WELL, DIRECTOR, GAS WELL. or consumer goods, excluding crops, minerals, electricity and natural gas. Is ISCO 08 Unit Group Details: designated according to work performed,
+
+Entry_99: Title Managing Directors and Chief directed such as: MANAGING DIRECTOR,
+
+Entry_100: Executives (MANUFACTURING). DIRECTOR, PRODUCTION(MANUFACTURING). 1120.1700 DIRECTOR, WORKS(MANUFACTURING). Working Proprietor, DIRECTOR, STEEL PLANT. DIRECTOR,
+
+Entry_101: Manufacturing/Proprietor, TANNERY. DIRECTOR, BAKERY. DIRECTOR,
+
+Entry_102: Manufacturing SADDLERY. VOLUME II A 12 National Classification of Occupations – 2015 Division 1 ISCO 08 Unit Group Details: may delegate financial and operational
+
+Entry_103: Title Managing Directors and Chief permit from public authorities for retail
+
+Entry_104: Executives trade. 1120.1900 ISCO 08 Unit Group Details: Working Proprietor, Wholesale Code 1120
+
+Entry_105: Executives Working Proprietor, Wholesale Trade 1120.2100 purchases goods in bulk and sells them to
+
+Entry_106: Director, Wholesale Trade retailers or other large consumers for profit. Lays down and controls business policies to ensure profits, keeping in view Director, Wholesale Trade lays down price line, market trend and demand and policies within powers ,delegated, and supply position. Appoints Directors, plans, controls and directs operation of
+
+Entry_107: Managers and Representatives and private or public enterprise or segment of delegates financial and operational its activities engaged in buying and selling powers to them, if necessary. Runs of goods in wholesale. Is designated wholesale trade on monopoly or zonal according to work performed, such as: basis in specific commodities either by MANAGING DIRECTOR (Wholesale Trade). importing them from outside or CHAIRMAN, BOARD OF DIRECTORS manufacturing them in his own or other (Wholesale Trade). concern. May require a licence or permit from public authorities for wholesale ISCO 08 Unit Group Details: trade. May undertake export business. Code 1120
+
+Entry_108: Executives Director, Retail Trade 1120.2000 Director, Retail Trade lays down policies Working Proprietor, Retail within powers delegated and plans,
+
+Entry_109: Trade/Proprietor, Retail Trade controls and directs operation of private or public enterprises or a segment of its activities, engaged in buying and selling Working Proprietor, Retail Trade conducts goods in retail. Is designated according to business in retail trade on own account, work performed such as: MANAGING buying merchandise from manufacturers DIRECTOR (Retail Trade), CHAIRMAN, or wholesalers according to public BOARD OF DIRECTORS (Retail Trade) demand and sells them to customers for DIRECTOR-IN-CHARGE (Retail Trade). profit. Lays down business policies regarding margin of profit and compliance ISCO 08 Unit Group Details: with prescribed rules and regulations.
+
+Entry_110: May appoint Directors and Managers and Code 1120 VOLUME II A 13 National Classification of Occupations – 2015 Division 1
+
+Entry_111: Title Managing Directors and Chief SUPERINTENDENT(RAILWAYS). CHIEF
+
+Entry_112: Executives COMMERCIAL SUPERINTENDENT(RAILWAYS). 1120.2300 Working Proprietor, Transport ISCO 08 Unit Group Details:
+
+Entry_113: Code 1120 Working Proprietor, Transport plans, Title Managing Directors and Chief organizes, co-ordinates and controls Executives activities of the organization or establishment wholly or partly owned by 1120.2500 him, is engaged in transporting Director, Communication passengers and freight by buses, trucks, taxis, rickshaws, tongas, and other means Director, Communication plans, organizes, of road transport; by boats, launches, co-ordinates and controls, within ships, etc. plying on inland or coastal authority delegated, activities of public or waters or on high seas; by aircraft for private organization or one or more of its providing transport and other services, departments or branches, engaged in incidental to transport. providing postal, telephone, telegraph, wireless and other communication ISCO 08 Unit Group Details: services. Is designated according to
+
+Entry_114: Title Managing Directors and Chief communication service directed such as:
+
+Entry_115: Executives DIRECTOR, POSTAL SERVICES, POST MASTER GENERAL. DIRECTOR, OVERSEAS 1120.2400 COMMUNICATION SERVICES. DIRECTOR
+
+Entry_116: Director, Transport OF TELEPHONES, DIRECTOR OF RAILWAY MAIL SERVICE.
+
+Entry_117: Director, Transport plans organizes, co- ISCO 08 Unit Group Details: ordinates and controls, within authority delegated, activities of private or public Code 1120 organizations or one or more of its Title Managing Directors and Chief departments, branches or sections, Executives engaged in transporting passengers and freight by railways, tramways, buses, 1120.2600 trucks, taxis, rickshaws, animal transport Director, Airport and other means of road transport; by Director, Airport plans, directs, and co- boats, launches and ships plying on rivers, ordinates, through subordinate personnel, coastal waters, and high seas; by aircrafts; activities concerned with construction and and operating services incidental to maintenance of airport facilities and transport. Is designated according to work operation of airport in accordance with performed, powers exercised of service governmental agencies or commission controlled, such as: MANAGING DIRECTOR policies and regulations. Consults with (TRANSPORT). commission members, governmental DIRECTOR, TRAFFIC GENERAL, MANAGER, officials, or representatives of airlines to RAILWAYS, DIRECTOR, ROADWAYS, CHIEF discuss and plan matters, such as design OPERATING and development of airport facilities, VOLUME II A 14 National Classification of Occupations – 2015 Division 1 formulation of operating rules, Working Proprietor, Storage and regulations, and procedures, and aircraft Warehousing plans and organizes storage landing, taxiing, and take-off patterns for warehousing and freight handling services various types of aircrafts. Negotiates with to public and private organizations by representatives of airlines, land, sea or air and arranges allied utility companies, or individuals for transport and communication facilities to acquisition of property for development parties concerned. Obtains license from of airports, lease of airport buildings and Government where necessary, and lays facilities, or use of rights-of-way over down business policies. Appoints private property. Formulates procedures Directors, Agents and Managers and for use in event of aircraft accidents, fires, delegates required financial and other or other emergencies. Inspects airport powers to them to ensure smooth running facilities, such as runways, buildings, of business, desired margin of profit and beacons and lighting, and automotive or compliance with business terms and construction equipment, or reviews Government rules and regulations. inspection reports, to determine repairs, replacement, or improvements required. ISCO 08 Unit Group Details:
+
+Entry_118: Co-ordinates activities of personnel Code 1120 involved in repair and maintenance of Title Managing Directors and Chief airport facilities, buildings, and equipment Executives to minimize interruption of airport operations and improve efficiency. Directs 1120.2800 personnel in investigating violations of
+
+Entry_119: Director, Storage and Warehousing aerial or ground traffic regulations, reviews investigation reports, and initiates
+
+Entry_120: Director, Storage and Warehousing plans, actions to be taken against violators. organizes, co-ordinates and controls,
+
+Entry_121: Directs studies on noise abatement within authority delegated, activities of resulting from complaints of excessive public or private organizations, or one or noise from low flying aircraft or other more of its branches, engaged in operations. Reviews reports of providing storage and warehouse facilities expenditures for previous fiscal year, on prescribed terms and conditions to proposes improvements to facilitate,
+
+Entry_122: Government and private parties. May estimated increase in volume of traffic, in arrange facilities of transport and order to prepare budget estimates for communication as required. upcoming fiscal year. Represents airport
+
+Entry_123: May specialize in any particular type of before civic or other organizational item or commodity such as groups, courts, boards, and commissions. machinery and engineering items, explosives, perishable goods, etc. and be ISCO 08 Unit Group Details: designated accordingly.
+
+Entry_124: Title Managing Directors and Chief ISCO 08 Unit Group Details:
+
+Entry_125: Warehousing VOLUME II A 15 National Classification of Occupations – 2015 Division 1 1120.2900 Executive Chef Working Proprietor, Lodging and
+
+Entry_126: Catering Services Executive Chef co-ordinates activities and directs indoctrination and training of CHEFS, COOKS; and other kitchen workers Working Proprietor, Lodging and Catering engaged in preparing and cooking food in
+
+Entry_127: Services plans, organizes, co-ordinates hotels or restaurants to ensure an and controls operations of the efficient and profitable food service. Plans organization or establishment wholly or or participates in planning menus and partly owned by him and is engaged in utilisation of food surpluses and leftovers, serving food, drinks and beverages and taking into account probable number of providing lodging and camping facilities to guests, marketing conditions, popularity public. Included are: WORKING of various dishes, and decency of menu. PROPRIETOR, HOTEL. WORKING
+
+Entry_128: Estimates food consumption and purchase PROPRIETOR, RESTAURANT. WORKING or requisition of foodstuff and kitchen PROPRIETOR, CAFE WORKING supplies. Reviews menus, analyses PROPRIETOR, COFFEE HOUSE. recipes, determines food, labour, and overhead costs, and assigns price to menu ISCO 08 Unit Group Details: items. Directs food apportionment policy
+
+Entry_129: Title Managing Directors and Chief other kitchen personnel and co-ordinates
+
+Entry_130: Executives their assignments to ensure economical and timely food production. Observes 1120.3000 methods of food preparation and cooking,
+
+Entry_131: Director, Lodging and Catering size of portions, and garnishing of food to
+
+Entry_132: Services/Director Food and ensure food is prepared in prescribed
+
+Entry_133: Beverage Service manner. Tests cooked food by tasting and smelling them. Devises special dishes and
+
+Entry_134: Director, Lodging and Catering Services develops recipes. Hires and discharges plans, organizes and controls, within employees. Familiarizes newly hired authority delegated, activities of public or CHEFS and COOKS with practices of the private organizations or establishments or restaurant kitchen and oversees training one or more of its branches, engaged in of COOK APPRENTICES. Maintains time preparing and serving food, drinks and and payroll records. Establishes and beverages and providing lodging, and enforces nutrition and sanitation camping facilities to public. Included are: standards for the restaurant. May DIRECTOR, HOTEL. supervise or co-operate with DIRECTOR, RESTAURANT. STEWARD/STEWARDESS in matters DIRECTOR, COFFEE HOUSE. pertaining to kitchen, pantry, and storeroom. ISCO 08 Unit Group Details: ISCO 08 Unit Group Details:
+
+Entry_135: Executives 1120.3100 VOLUME II A 16 National Classification of Occupations – 2015 Division 1 1120.3200 and circus shows; organizing and Working Proprietor, Recreation and presenting radio and television programmes; operating carnivals and
+
+Entry_136: Entertainment amusement parks; organizing games, sports, hunting, fishing, excursion, Working Proprietor, Recreation and competitions, etc., and providing other
+
+Entry_137: Entertainment plans, organizes, co- entertainment and recreation services. ordinates and controls operations of the
+
+Entry_138: Included are; organization or establishment wholly or DIRECTOR, MOTION PICTURE. DIRECTOR, partly owned by him and is engaged in STAGE. DIRECTOR, STUDIO. DIRECTOR, producing, distributing and exhibiting STADIUM. DIRECTOR, RADIO STATION. motion pictures; producing and presenting stage and circus shows; ISCO 08 Unit Group Details: operating carnivals and amusement parks;
+
+Entry_139: Code 1120 organizing games, sports, hunting, fishing,
+
+Entry_140: Title Managing Directors and Chief excursion, competitions, etc., and
+
+Entry_141: Executives providing other entertainment and recreation services. Included are: WORKING PROPRIETOR, FILM STUDIO. 1120.3400 PRODUCER, MOTION PICTURES, FILM Station Director, Radio/TV DISTRIBUTOR, WORKING PROPRIETOR, THEATRE, WORKING PROPRIETOR, Station Director, Radio/TV directs and co- CARNIVAL, WORKING PROPRIETOR, ordinates activities of radio or television AMUSEMENT PARK. WORKING station, or of cable television franchise. PROPRIETOR, GYMNASIUM, WORKING Supervises directly, or through PROPRIETOR, SWIMMING POOL, subordinates, personnel engaged in WORKING PROPRIETOR, DANCE HALL, departments, such as sales, programme or WORKING PROPRIETOR, CINEMA, engineering. WORKING PROPRIETOR, CIRCUS. Observes activities to ensure compliance with government regulations. Discusses ISCO 08 Unit Group Details: plans with the marketing personnel to
+
+Entry_142: Title Managing Directors and Chief periods to advertisers and their agencies.
+
+Entry_143: Executives Confers with owners or company senior management to discuss station policies 1120.3300 and administrative procedures. May
+
+Entry_144: Director, Recreation and prepare operational budget and monitor expenses for station or franchise. May
+
+Entry_145: Entertainment negotiate with motion picture companies for purchase of independent film
+
+Entry_146: Director, Recreation and Entertainment programmes. plans, organizes and controls, within
+
+Entry_147: May negotiate cable franchise contract authority delegated, activities of public or with local issuing authority. May develop private organizations or establishments or strategies to promote sales of new cable one or more of its branches or television service or upgraded service to departments, engaged in producing, customers within the franchise area. May distributing and exhibiting motion contact prospective buyers of station time pictures; producing and presenting stage VOLUME II A 17 National Classification of Occupations – 2015 Division 1 to promote sale of station services. May NSQF Level 8 manage stations engaged in transmitting broadcasts to foreign countries and be ISCO 08 Unit Group Details: known as Director, International Code 1120
+
+Entry_148: Broadcasting (radio-television broadcast). Title Managing Directors and Chief May perform different duties and Executives responsibilities, according to station size and network affiliation. 1120.3500 Working Proprietor, Other Services ISCO 08 Unit Group Details:
+
+Entry_149: Code 1120 Working Proprietor, Other Services plans,
+
+Entry_150: Title Managing Directors and Chief organizes, co-ordinates and controls
+
+Entry_151: Executives activities of the organization, wholly or partly owned by him, and is engaged in 1120.3401 running and managing educational
+
+Entry_152: Account Director (Advertising institutions; rendering medical and other
+
+Entry_153: Agency) health services, sanitation, washing and cleaning households, garments, etc. and
+
+Entry_154: Account Director (Advertising Agency) is providing other services. responsible for managing the clients’ advertisement portfolio. ISCO 08 Unit Group Details:
+
+Entry_155: Qualification Pack Details: Title Managing Directors and Chief
+
+Entry_156: Executives QP NOS Reference MES/Q0207 QP NOS Name Account Director 1120.3600 (Advertising
+
+Entry_157: Director, Other Services plans, organizes ISCO 08 Unit Group Details: and controls, within authority delegated,
+
+Entry_158: Code 1120 activities of public or private organizations
+
+Entry_159: Title Managing Directors and Chief or establishments, or one or more of its
+
+Entry_160: Executives departments or branches, engaged in running educational institutions; 1120.3402 rendering medical sanitation and other health services. Organizing and providing
+
+Entry_161: Sales Director (Media Org) religious services, promoting welfare of workers or community, giving charity
+
+Entry_162: Sales Director (Media Org) is responsible assistance or aid to infirm or orphans. for leading the sales efforts of a media
+
+Entry_163: Organizing and managing trade and labour and entertainment company. organizations and other civic and social associations, washing and cleaning
+
+Entry_164: Qualification Pack Details: garments etc., undertaking and cremating; QP NOS Reference MES/Q0201 and performing other services. Included QP NOS Name Sales Director are: DIRECTOR OF EDUCATIONAL (Media Org) INSTITUTIONS. DIRECTOR OF CHARITABLE VOLUME II A 18 National Classification of Occupations – 2015 Division 1 INSTITUTIONS, DIRECTOR, ORPHANAGE institutional programmes, and approves DIRECTOR, Y.M.C.A, DIRECTOR, Y.W.C.A. materials or suggests changes. Instructs classes in institution's education ISCO 08 Unit Group Details: programme or as guest lecturer at the
+
+Entry_165: Code 1120 university. Writes articles for technical
+
+Entry_166: Title Managing Directors and Chief journals or other publications.
+
+Entry_167: Executives ISCO 08 Unit Group Details: 1120.3700 Code 1120
+
+Entry_168: Director, Museum/Zoo Title Managing Directors and Chief
+
+Entry_169: Director, Museum/Zoo administers affairs 1120.3800 of museum, zoo, or similar establishments. Confers with the Chief Librarian institution's board of Directors to formulate policies and plan overall Chief Librarian plans and administers operations. Directs acquisition, education, programme of library services: Submits research, public service, and recommendations on library policies and developmental activities of the institution, services to the governing body, such as consulting with curatorial, administrative, board of Directors or board of Trustees, and maintenance staff members to and implements policy decisions. implement policies and initiate Analyses, selects, and executes programmes. Works with members of recommendations of personnel, such as curatorial and administrative staffs to department chiefs or branch supervisors. acquire additions to collections. Confers Co-ordinates activities of the branch or with administrative staff members to departmental libraries. Analyses and co- determine budget requirements, plans ordinates departmental budget estimates fund raising drives, prepares applications and controls expenditures to administer for grants from government agencies or approved budget. Reviews and evaluates private foundations, and solicits financial orders for books and audio-visual support for institutions. Establishes and materials. Examines trade publications maintains contact with administrators of and materials, interviews publishers' other institutions to exchange information representatives, and consults with others concerning operations and plan, co- to select materials. Administers personnel ordinate, or consolidate community regulations, interviews and appoints job service and education programmes. applicants and promotes and discharges
+
+Entry_170: Represents the institution at professional employees. Plans and conducts staff and civic social events, conventions, and meetings and participates in community other gatherings to strengthen and professional meetings to discuss and relationships with cultural and civic act on library problems. Delivers book leaders, present lectures or participate in reviews and lectures to publicise library seminars, or explain institution's functions activities and services. Provides library and seek financial support for projects. public relation services. May examine and
+
+Entry_171: Reviews materials prepared by staff select materials to be discarded, repaired, members, such as articles for journals, or replaced. requests for grants and reports on VOLUME II A 19 National Classification of Occupations – 2015 Division 1 ISCO 08 Unit Group Details: 1120.9900
+
+Entry_172: Title Managing Directors and Chief Executives, Others
+
+Entry_173: Executives Working Proprietors and Directors, Other 1120.3900 Workers plan, organize, control, co-
+
+Entry_174: Principal, College ordinate and supervise activities of public or private organizations, wholly or
+
+Entry_175: Principal College directs and co-ordinates partially owned by them or on behalf of educational, administrative, and others, engaged in generating, counselling activities of college. Develops transmitting and distributing electricity; and evaluates educational programmes to producing and supplying gas, purifying ensure conformance to state and and supplying water and providing related university standards. Develops and co- services not elsewhere classified. ordinates educational programmes through meetings with staff, review of ISCO 08 Unit Group Details: teachers' activities, and issuance of directives.
+
+Entry_176: Title Managing Directors and Chief parents concerning educational and
+
+Entry_177: Sub Division 12 with colleges, community organizations, and other colleges to co-ordinate
+
+Entry_178: Administrative and Commercial educational, sports and cultural services.
+
+Entry_179: Forwards requisitions and allocates supplies, equipment, and instructional material as needed. Directs preparation of Administrative and Commercial Managers class schedules, cumulative records, and plan, organize, direct, control and co- attendance reports. Observes and ordinate the financial, administrative, evaluates teacher’s performance. human resource, policy, planning,
+
+Entry_180: Interviews and hires teachers. Walks research and development, advertising, around the college building and property public relations, and sales and marketing to monitor safety and security. Plans and activities of enterprises and organizations, monitors college budget and financial or of enterprises that provide such matters. May plan and direct building services to other enterprises and maintenance. May develop and organizations. administer educational programmes for Tasks performed by workers in this sub- students with mental or physical major group usually include: formulating handicaps. and administering policy advice, strategic and financial planning; establishing and ISCO 08 Unit Group Details: directing operational and administrative
+
+Entry_181: Title Managing Directors and Chief and evaluating strategies and policies;
+
+Entry_182: Executives providing advice to Senior Managers; directing the development of initiatives VOLUME II A 20 National Classification of Occupations – 2015 Division 1 for new products, marketing, public 1213 Policy and Planning Managers relations and advertising campaigns; 1219 Business Services and determining and directing sales activities,
+
+Entry_183: Administration Managers Not product mix, customer service standards;
+
+Entry_184: Elsewhere Classified setting prices and credit arrangements; ensuring compliance with relevant
+
+Entry_185: Family 1211 legislation, regulations and standards;
+
+Entry_186: Finance Managers controlling selection, training and performance of staff; preparing budgets and overseeing financial operations; Finance Managers plan, direct and co- consulting with the chief executive and ordinate the financial operations of an with managers of other departments or enterprise or organization, in consultation sections; controlling expenditure and with Senior Managers and with Managers ensuring the efficient use of resources; of other departments or sections. representing the enterprise or organization in negotiations, and at 1211.0100 conventions, seminars, public hearings
+
+Entry_187: General Manager, Bank organizes, Occupations in this Sub Division are controls and supervises, within authority classified into the following Groups: delegated, activities of a private or public bank or one or more of its departments or 121 Business Services and branches. Is designated according to Administration Managers authority delegated or work performed 122 Sales, Marketing and Development such as: AGENT (BANK) SUB-AGENT
+
+Entry_188: General Manager, Insurance organizes, and co-ordinate the financial, controls and supervises, within authority administrative, human resource, policy, delegated, activities of a private or public planning, activities of organizations, or of organization or one or more of its enterprises that provide such services to departments or branches, engaged in life, other enterprises and organizations. fire, accident, marine and other general insurance business. Occupations in this Group are classified into the following Families: ISCO 08 Unit Group Details: 1211 Finance Managers Code 1211
+
+Entry_189: Title Finance Managers 1212 Human Resource Managers VOLUME II A 21 National Classification of Occupations – 2015 Division 1 1211.0300 enterprises that provide human resource
+
+Entry_190: Purser, Ship services to other enterprises and organizations.
+
+Entry_191: Purser, Ship deals with correspondence 1212.0100 and accounts relating to a ship. Keeps charge of all accounts and pay of the Personnel Manager ship's personnel. Checks reports of Clerks and pays of crew and maintains their pay Personnel Manager; Personnel Officer; rolls. Prepares portage bills and ship's 30 Industrial Relation Officer formulates and articles (contracts). Collects mail and executes policies relating to recruitment, distributes to passengers, officers and training, review of terms and conditions of crew. May supervise stowing or removal employment of personnel, of luggage from holds in conjunction with implementation of statutory and other
+
+Entry_192: Chief Officer, Ship or Officer on Watch. welfare schemes and effective utilization
+
+Entry_193: May collect valuables of passengers for and discharge of personnel employed in safe custody in passenger ships. May any undertaking. Advises and assists in arrange parties and other entertainment development of managerial power, for passengers and generally acts as a prescribes recruitment methods, host. organizes training schemes, supervises ISCO 08 Unit Group Details: administration of welfare programmes,
+
+Entry_194: Code 1211 distributes personnel for their effective
+
+Entry_195: Title Finance Managers utilization in organization and resolves problems of remuneration, discipline and 1211.9900 industrial disputes in accordance with established laws. Investigates in to specific
+
+Entry_196: Finance and Administration problems of indiscipline and inefficiency
+
+Entry_197: Managers, Others to evolve and suggest ameliorative measures to management. Establishes
+
+Entry_198: Finance and Administration Department channels of consultation between labour
+
+Entry_199: Managers, Others include Managers and employers to minimize engaged in finance and administration misunderstanding, promote cordial and related services, not elsewhere relations and consults with labour classified. representatives on behalf of employers to remove causes of petty grievances. May ISCO 08 Unit Group Details: specialize in a particular function, such as
+
+Entry_200: Title Finance Managers welfare, or industrial relations and be designated accordingly.
+
